@@ -1,6 +1,6 @@
 # उल्फत - शायरी और ग़ज़ल 💕
 
-**By KITIKKA APPs ☂️**
+**By KRITTIKA Apps ☂️**
 
 A beautiful Progressive Web App with Hindi, Urdu and Marathi Shayari + 52 Famous Ghazals - Ready for Play Store!
 

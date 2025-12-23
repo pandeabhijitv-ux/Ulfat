@@ -3,7 +3,7 @@
 
 Write-Host "======================================" -ForegroundColor Cyan
 Write-Host "  Ulfat Play Store Deployment" -ForegroundColor Cyan
-Write-Host "  KITIKKA APPs ☂️" -ForegroundColor Cyan
+Write-Host "  KRITTIKA Apps ☂️" -ForegroundColor Cyan
 Write-Host "======================================" -ForegroundColor Cyan
 Write-Host ""
 
@@ -32,7 +32,7 @@ if (!(Test-Path ".git")) {
     Write-Host "Initializing Git repository..." -ForegroundColor White
     git init
     git add .
-    git commit -m "Initial commit - Ulfat Shayari App by KITIKKA APPs"
+    git commit -m "Initial commit - Ulfat Shayari App by KRITTIKA Apps"
     Write-Host "✅ Git initialized and committed!" -ForegroundColor Green
 } else {
     Write-Host "Git repository exists. Checking for changes..." -ForegroundColor White
@@ -111,4 +111,4 @@ Write-Host "======================================" -ForegroundColor Cyan
 Write-Host "📖 Complete guide: DEPLOY_TO_PLAYSTORE.md" -ForegroundColor Green
 Write-Host "======================================" -ForegroundColor Cyan
 Write-Host ""
-Write-Host "Made with ❤️ by KITIKKA APPs ☂️" -ForegroundColor Magenta
+Write-Host "Made with ❤️ by KRITTIKA Apps ☂️" -ForegroundColor Magenta

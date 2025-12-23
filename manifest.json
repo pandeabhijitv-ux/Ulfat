@@ -1,9 +1,9 @@
 {
-  "name": "उल्फत - शायरी और ग़ज़ल | KITIKKA APPs ☂️",
+  "name": "उल्फत - शायरी और ग़ज़ल | KRITTIKA Apps ☂️",
   "short_name": "उल्फत ☂️",
-  "description": "KITIKKA APPs ☂️ presents: हिंदी, उर्दू और मराठी की बेहतरीन शायरी और 52 मशहूर ग़ज़लों का संग्रह। प्रेम, दर्द, ज़िंदगी पर खूबसूरत अशआर।",
-  "start_url": "/index.html",
-  "scope": "/",
+  "description": "KRITTIKA Apps ☂️ presents: हिंदी, उर्दू और मराठी की बेहतरीन शायरी और 52 मशहूर ग़ज़लों का संग्रह। प्रेम, दर्द, ज़िंदगी पर खूबसूरत अशआर।",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#8B4789",
