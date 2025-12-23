@@ -717,24 +717,6 @@ const hindiShayari = [
   },
   
   {
-    id: 212,
-    language: 'hindi',
-    category: 'devotional',
-    author: 'कबीर दास',
-    text: `बुरा जो देखन मैं चला बुरा न मिलिया कोय
-जो दिल खोजा आपना मुझसे बुरा न कोय`,
-  },
-  
-  {
-    id: 214,
-    language: 'hindi',
-    category: 'devotional',
-    author: 'तुलसीदास',
-    text: `राम नाम का सुमिरन कर ले
-सब दुःख दूर हो जायेंगे`,
-  },
-  
-  {
     id: 218,
     language: 'hindi',
     category: 'sad',
@@ -1714,7 +1696,7 @@ const hindiShayari = [
     author: 'Rahat Indori',
     text: `अपने सपनों को पूरा करने के लिये
 हर मुश्किल को पार करना होगा`,
-  },
+  }
 ];
 
 // === URDU SHAYARI ===
@@ -3427,7 +3409,7 @@ const urduShayari = [
     author: 'Gulzar',
     text: `कुछ दर्द ऐसे होते हैं
 जो कभी ठीक नहीं होते`,
-  },
+  }
   
 ];
 
@@ -3552,44 +3534,7 @@ const marathiShayari = [
 पण जीवनात यश मिळवायचं असेल तर प्रयत्न करत राहा नित्य`,
   },
 
-  // === MARATHI DEVOTIONAL SHAYARI ===
-  {
-    id: 43,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत तुकाराम',
-    text: `जिवीं मरण आलें जाणीव झाली
-परमार्थाची आवड मना आली
-भक्तीविण ऐसे काय रे करावे
-तुकाहमाणे देव नित्य हरिस्मरावे`,
-  },
-  
-  {
-    id: 44,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत ज्ञानेश्वर',
-    text: `पांडुरंगा पांडुरंगा विठ्ठला विठ्ठला
-तुझ्यावीण माझे कोण आहे रे विठ्ठला`,
-  },
-  
-  {
-    id: 45,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत नामदेव',
-    text: `विठू माझा संसार तूच
-नको देवा दुसरं मला कांही`,
-  },
-  
-  {
-    id: 46,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत एकनाथ',
-    text: `जो जो जन्म घेईल त्याचे हरी स्मरण असावे
-भक्तीची ज्योत मनात सदा प्रज्वलित राहावी`,
-  },
+  // === MARATHI DEVOTIONAL SHAYARI ===,
 
   // === MORE HINDI/URDU ROMANTIC ===
   {
@@ -3617,15 +3562,6 @@ const marathiShayari = [
     author: 'लोकप्रिय',
     text: `आयुष्य हे एक प्रवास आहे मित्रांनो
 प्रत्येक क्षणाचा आनंद घ्या आणि पुढे जा`,
-  },
-  
-  {
-    id: 70,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत रामदास',
-    text: `मनाचे श्लोक हे मंत्र आहेत
-भक्तीचे शब्द ते देवाला गाणे आहेत`,
   },
   
   {
@@ -3674,15 +3610,6 @@ const marathiShayari = [
   },
   
   {
-    id: 115,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत तुकाराम',
-    text: `माझा माझा गं देव विठ्ठल
-तुझ्याशिवाय मी काय करू`,
-  },
-  
-  {
     id: 123,
     language: 'marathi',
     category: 'romantic',
@@ -3707,15 +3634,6 @@ const marathiShayari = [
     author: 'लोकप्रिय',
     text: `रडू नये असं वाटतं पण अश्रू थांबतच नाहीत
 दुःख सांगू नये असं वाटतं पण मन थांबतच नाही`,
-  },
-  
-  {
-    id: 136,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत ज्ञानेश्वर',
-    text: `माझा विठू माझा सांगाती
-त्याच्याशिवाय जीवन रिकामं`,
   },
   
   {
@@ -3755,15 +3673,6 @@ const marathiShayari = [
   },
   
   {
-    id: 156,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत नामदेव',
-    text: `देवा तुझ्याशिवाय कोठे जाऊ
-तूच माझा आधार माझा विश्वास`,
-  },
-  
-  {
     id: 160,
     language: 'marathi',
     category: 'philosophical',
@@ -3788,15 +3697,6 @@ const marathiShayari = [
     author: 'लोकप्रिय',
     text: `काळजाला व्यथा होते पण ओठांवर हास्य असतं
 जगणं हेच खरं आयुष्य असतं`,
-  },
-  
-  {
-    id: 172,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत एकनाथ',
-    text: `भक्तीचा मार्ग सोपा नसतो
-पण देव नेहमी सोबत असतो`,
   },
   
   {
@@ -3901,33 +3801,7 @@ const marathiShayari = [
 जो आयुष्यभर काम येतो`,
   },
 
-  // === MORE DEVOTIONAL SHAYARI ===
-  {
-    id: 211,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत तुकाराम',
-    text: `देवा माझे करुणा करी
-भक्तांचा तू पालक आहेस`,
-  },
-  
-  {
-    id: 213,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत ज्ञानेश्वर',
-    text: `भगवंता तुझी कृपा असावी
-जीवन सार्थक व्हावे`,
-  },
-  
-  {
-    id: 215,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत नामदेव',
-    text: `हरिनाम चे स्मरण करा
-मोक्ष मिळेल तुम्हाला`,
-  },
+  // === MORE DEVOTIONAL SHAYARI ===,
 
   // === CONTINUING MORE SHAYARI ===
   {
@@ -3976,15 +3850,6 @@ const marathiShayari = [
   },
   
   {
-    id: 239,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत एकनाथ',
-    text: `देवाचं नाम घ्या नित्य
-मनाला शांती मिळेल`,
-  },
-  
-  {
     id: 243,
     language: 'marathi',
     category: 'sad',
@@ -4009,15 +3874,6 @@ const marathiShayari = [
     author: 'लोकप्रिय',
     text: `तुझ्या मोहात सगळं हरवलं
 पण खरं प्रेम सापडलं`,
-  },
-  
-  {
-    id: 255,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत रामदास',
-    text: `मन शांत असेल तर
-देव सर्वत्र दिसतो`,
   },
   
   {
@@ -4057,15 +3913,6 @@ const marathiShayari = [
   },
   
   {
-    id: 275,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत तुकाराम',
-    text: `भक्तीमध्ये लीन राहा
-देवाचं आशीर्वाद मिळेल`,
-  },
-  
-  {
     id: 279,
     language: 'marathi',
     category: 'philosophical',
@@ -4090,15 +3937,6 @@ const marathiShayari = [
     author: 'लोकप्रिय',
     text: `वेळ कोणाची वाट पाहत नाही
 संधी मिळाली की हातात घे`,
-  },
-  
-  {
-    id: 291,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत ज्ञानेश्वर',
-    text: `देवाची भक्ती हीच खरी संपत्ती
-हेच आयुष्याचं खरं धन`,
   },
   
   {
@@ -4138,15 +3976,6 @@ const marathiShayari = [
   },
   
   {
-    id: 311,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत नामदेव',
-    text: `प्रभुची कृपा असेल तर
-सगळं साधता येतं`,
-  },
-  
-  {
     id: 315,
     language: 'marathi',
     category: 'romantic',
@@ -4171,15 +4000,6 @@ const marathiShayari = [
     author: 'लोकप्रिय',
     text: `दु:खाचे क्षण कधी विसरत नाहीत
 पण त्यांनाही साह घेतला पाहिजे`,
-  },
-  
-  {
-    id: 327,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत एकनाथ',
-    text: `देवाची भक्ती मनापासून करावी
-तभी मोक्ष मिळेल`,
   },
   
   {
@@ -4210,15 +4030,6 @@ const marathiShayari = [
   },
   
   {
-    id: 343,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत तुकाराम',
-    text: `देवाचे नाम सर्वत्र वसतं
-त्याचे स्मरण करा नित्य`,
-  },
-  
-  {
     id: 347,
     language: 'marathi',
     category: 'romantic',
@@ -4243,15 +4054,6 @@ const marathiShayari = [
     author: 'लोकप्रिय',
     text: `तुझ्या प्रेमाने दिलं जीवन
 तुझ्या साथीने दिली शक्ती`,
-  },
-  
-  {
-    id: 359,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत रामदास',
-    text: `प्रभुच्या नावाने सर्व शक्य
-भक्तीने सर्व साध्य`,
   },
   
   {
@@ -4282,15 +4084,6 @@ const marathiShayari = [
   },
   
   {
-    id: 375,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत नामदेव',
-    text: `भगवंताची भक्ती करा
-सर्व दु:ख दूर होतील`,
-  },
-  
-  {
     id: 379,
     language: 'marathi',
     category: 'romantic',
@@ -4315,15 +4108,6 @@ const marathiShayari = [
     author: 'लोकप्रिय',
     text: `आयुष्य हा एक संधी आहे
 प्रत्येक क्षणाचा उपयोग करा`,
-  },
-  
-  {
-    id: 390,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत तुकाराम',
-    text: `विठ्ठल विठ्ठल बोला मना
-सर्व संकटं दूर होतील`,
   },
   
   {
@@ -4354,15 +4138,6 @@ const marathiShayari = [
   },
   
   {
-    id: 405,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत ज्ञानेश्वर',
-    text: `देवाची कृपा सदैव तुमच्यावर
-फक्त विश्वास ठेवा`,
-  },
-  
-  {
     id: 409,
     language: 'marathi',
     category: 'romantic',
@@ -4387,15 +4162,6 @@ const marathiShayari = [
     author: 'लोकप्रिय',
     text: `तुझ्या प्रेमाची गोडी आहे मनात
 तुझ्या आठवणीची सुगंध श्वासात`,
-  },
-  
-  {
-    id: 421,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत एकनाथ',
-    text: `देवाचं स्मरण नित्य करा
-सर्व दु:खं दूर होतील`,
   },
   
   {
@@ -4426,15 +4192,6 @@ const marathiShayari = [
   },
   
   {
-    id: 437,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत नामदेव',
-    text: `देवाची भक्ती मनापासून करा
-तुम्हाला मोक्ष मिळेल`,
-  },
-  
-  {
     id: 441,
     language: 'marathi',
     category: 'romantic',
@@ -4459,15 +4216,6 @@ const marathiShayari = [
     author: 'लोकप्रिय',
     text: `तुझं प्रेम माझं जीवन
 तुझं सौंदर्य माझा अभिमान`,
-  },
-  
-  {
-    id: 453,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत तुकाराम',
-    text: `भगवंताचे नाव घे नित्य
-तुझे सर्व कल्याण होईल`,
   },
   
   {
@@ -4498,15 +4246,6 @@ const marathiShayari = [
   },
   
   {
-    id: 469,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत रामदास',
-    text: `देवाचा विश्वास ठेवा
-सर्व संकट दूर होतील`,
-  },
-  
-  {
     id: 473,
     language: 'marathi',
     category: 'romantic',
@@ -4534,15 +4273,6 @@ const marathiShayari = [
   },
   
   {
-    id: 485,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत एकनाथ',
-    text: `देवाची भक्ती करा मनापासून
-तुम्हाला सर्व काही मिळेल`,
-  },
-  
-  {
     id: 489,
     language: 'marathi',
     category: 'romantic',
@@ -4567,16 +4297,7 @@ const marathiShayari = [
     author: 'लोकप्रिय',
     text: `तुझ्या प्रेमाने जीवन बदललं
 आता सगळं सुंदर आहे`,
-  },
-  
-  {
-    id: 502,
-    language: 'marathi',
-    category: 'devotional',
-    author: 'संत तुकाराम',
-    text: `देवाची भक्ती सर्वोत्तम
-याने सर्व मिळतं`,
-  },
+  }
   
 ];
 
