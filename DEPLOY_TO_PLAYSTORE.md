@@ -45,7 +45,7 @@ git init
 git add .
 
 # Commit
-git commit -m "Initial commit - Ulfat Shayari App by KITIKKA APPs"
+git commit -m "Initial commit - Ulfat Shayari App by KRITTIKA Apps"
 ```
 
 #### Create GitHub Repository:

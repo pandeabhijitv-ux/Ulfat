@@ -1,5 +1,5 @@
 # Ulfat Deployment Script
-# KITIKKA APPs ☂️
+# KRITTIKA Apps ☂️
 
 Write-Host "======================================" -ForegroundColor Cyan
 Write-Host "  Ulfat Play Store Deployment" -ForegroundColor Cyan
@@ -93,7 +93,7 @@ Write-Host "  3. Click 'Start' and wait for analysis" -ForegroundColor White
 Write-Host "  4. Click 'Package for Stores' → Android" -ForegroundColor White
 Write-Host "  5. Configure:" -ForegroundColor White
 Write-Host "     - App name: उल्फत - शायरी और ग़ज़ल" -ForegroundColor Gray
-Write-Host "     - Package ID: com.kitikkaapps.ulfat" -ForegroundColor Gray
+Write-Host "     - Package ID: com.krittikaapps.ulfat" -ForegroundColor Gray
 Write-Host "  6. Click 'Generate' and download .aab file" -ForegroundColor White
 Write-Host ""
 
