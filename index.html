@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#8B4789">
+    <meta name="description" content="उल्फत - Hindi, Urdu & Marathi Shayari Collection by KITIKKA APPs ☂️">
+    <title>उल्फत - शायरी और ग़ज़ल | KITIKKA APPs ☂️</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💕</text></svg>">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Noto Sans Devanagari', 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+            animation: fadeIn 0.5s;
+        }
+
+        .app-title {
+            font-size: 48px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .subtitle {
+            font-size: 18px;
+            opacity: 0.9;
+        }
+
+        .card {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            animation: slideUp 0.5s;
+        }
+
+        .shayari-text {
+            font-size: 22px;
+            line-height: 1.8;
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+            white-space: pre-line;
+        }
+
+        .author {
+            text-align: right;
+            color: #8B4789;
+            font-style: italic;
+            font-size: 16px;
+            margin-top: 15px;
+        }
+
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 20px;
+        }
+
+        button {
+            background: #8B4789;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 25px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 4px 15px rgba(139, 71, 137, 0.3);
+        }
+
+        button:hover {
+            background: #6d3569;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(139, 71, 137, 0.4);
+        }
+
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .icon-btn {
+            padding: 12px 20px;
+            background: transparent;
+            border: 2px solid #8B4789;
+            color: #8B4789;
+            margin: 0 5px;
+        }
+
+        .icon-btn:hover {
+            background: #8B4789;
+            color: white;
+        }
+
+        .counter {
+            text-align: center;
+            color: white;
+            font-size: 14px;
+            margin: 15px 0;
+        }
+
+        .actions {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 15px;
+            flex-wrap: wrap;
+        }
+
+        .filters {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+        }
+
+        .filter-btn {
+            padding: 8px 16px;
+            font-size: 14px;
+            background: white;
+            color: #8B4789;
+            border: 2px solid white;
+        }
+
+        .filter-btn.active {
+            background: #8B4789;
+            color: white;
+        }
+
+        .mode-toggle {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .mode-btn {
+            background: white;
+            color: #8B4789;
+            border: 2px solid #8B4789;
+            padding: 12px 40px;
+            border-radius: 25px;
+            font-size: 18px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .mode-btn.active {
+            background: #8B4789;
+            color: white;
+        }
+
+        .mode-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(139, 71, 137, 0.4);
+        }
+
+        .ghazal-info {
+            background: #f0e6f6;
+            padding: 10px 15px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            font-size: 14px;
+            color: #6d3569;
+            display: none;
+        }
+
+        .ghazal-info.show {
+            display: block;
+        }
+
+        .sher {
+            border-left: 3px solid #8B4789;
+            padding-left: 15px;
+            margin-bottom: 20px;
+        }
+
+        .search-box {
+            width: 100%;
+            padding: 15px;
+            border-radius: 15px;
+            border: none;
+            font-size: 16px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        .favorites-badge {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #ff4757;
+            color: white;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            cursor: pointer;
+            box-shadow: 0 4px 15px rgba(255, 71, 87, 0.3);
+            z-index: 100;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.8);
+            z-index: 1000;
+            padding: 20px;
+            overflow-y: auto;
+        }
+
+        .modal.active {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal-content {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            max-width: 500px;
+            width: 100%;
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+
+        .close-btn {
+            float: right;
+            font-size: 28px;
+            cursor: pointer;
+            color: #999;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes slideUp {
+            from { 
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to { 
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .loading {
+            text-align: center;
+            color: white;
+            font-size: 18px;
+            margin-top: 50px;
+        }
+
+        .empty-state {
+            text-align: center;
+            color: white;
+            padding: 40px;
+            font-size: 18px;
+        }
+
+        @media (max-width: 600px) {
+            .app-title {
+                font-size: 36px;
+            }
+            .shayari-text {
+                font-size: 18px;
+            }
+            button {
+                padding: 10px 20px;
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="app-title">उल्फत</div>
+            <div class="subtitle">शेर-ओ-शायरी का खज़ाना</div>
+        </div>
+
+        <div class="mode-toggle">
+            <button class="mode-btn active" onclick="switchMode('shayari')" id="shayariModeBtn">शायरी</button>
+            <button class="mode-btn" onclick="switchMode('ghazal')" id="ghazalModeBtn">ग़ज़ल</button>
+        </div>
+
+        <input type="text" class="search-box" id="searchBox" placeholder="खोजें... (Search)">
+
+        <div class="filters" id="filters"></div>
+
+        <div class="counter" id="counter">Loading...</div>
+
+        <div class="card">
+            <div class="ghazal-info" id="ghazalInfo"></div>
+            <div class="shayari-text" id="shayariText">Loading shayari...</div>
+            <div class="author" id="author"></div>
+            
+            <div class="controls">
+                <button onclick="prevShayari()" id="prevBtn">← पिछला</button>
+                <button onclick="randomShayari()">🎲 Random</button>
+                <button onclick="nextShayari()" id="nextBtn">अगला →</button>
+            </div>
+
+            <div class="actions">
+                <button class="icon-btn" onclick="toggleFavorite()">
+                    <span id="favIcon">♡</span> पसंद
+                </button>
+                <button class="icon-btn" onclick="shareShayari()">📤 शेयर</button>
+                <button class="icon-btn" onclick="copyShayari()">📋 कॉपी</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="favorites-badge" onclick="showFavorites()">
+        ❤️<span style="font-size:12px; position:absolute; bottom:2px; right:2px; background:#fff; color:#ff4757; border-radius:50%; width:18px; height:18px;" id="favCount">0</span>
+    </div>
+
+    <div class="modal" id="favoritesModal">
+        <div class="modal-content">
+            <span class="close-btn" onclick="closeFavorites()">×</span>
+            <h2 style="color: #8B4789; margin-bottom: 20px;">पसंदीदा शायरी ❤️</h2>
+            <div id="favoritesList"></div>
+        </div>
+    </div>
+
+    <script src="ghazal_data.js?v=1.0"></script>
+    <script src="shayari.js?v=3.1"></script>
+    <script>
+        // Check if data loaded
+        window.addEventListener('error', function(e) {
+            console.error('Error loading:', e);
+            document.getElementById('shayariText').textContent = 'Error: ' + e.message;
+        });
+        
+        // Service Worker for PWA
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('sw.js');
+        }
+    </script>
+    <div style="text-align: center; padding: 15px 10px; color: #666; font-size: 0.85em; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); margin-top: 20px;">
+        Made with ❤️ by <strong>KITIKKA APPs ☂️</strong>
+    </div>
+</body>
+</html>

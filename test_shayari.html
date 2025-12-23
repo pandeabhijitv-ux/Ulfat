@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Test Shayari Data</title>
+</head>
+<body>
+    <h1>Testing Shayari Data Load</h1>
+    <div id="status">Loading...</div>
+    <div id="results"></div>
+    
+    <script src="shayari.js?v=2.0"></script>
+    <script>
+        setTimeout(() => {
+            const status = document.getElementById('status');
+            const results = document.getElementById('results');
+            
+            try {
+                if (typeof shayariData === 'undefined') {
+                    status.innerHTML = '❌ Error: shayariData not defined!';
+                    status.style.color = 'red';
+                } else {
+                    status.innerHTML = `✅ Data loaded successfully!<br>
+                        Total: ${shayariData.length} shayari<br>
+                        Hindi: ${hindiShayari ? hindiShayari.length : 0}<br>
+                        Urdu: ${urduShayari ? urduShayari.length : 0}<br>
+                        Marathi: ${marathiShayari ? marathiShayari.length : 0}`;
+                    status.style.color = 'green';
+                    
+                    // Show first shayari from each language
+                    results.innerHTML = `
+                        <h3>Sample Shayari:</h3>
+                        <p><strong>Hindi:</strong> ${hindiShayari[0].text}</p>
+                        <p><strong>Urdu:</strong> ${urduShayari[0].text}</p>
+                        <p><strong>Marathi:</strong> ${marathiShayari[0].text}</p>
+                    `;
+                }
+            } catch (e) {
+                status.innerHTML = '❌ Error: ' + e.message;
+                status.style.color = 'red';
+                console.error(e);
+            }
+        }, 100);
+    </script>
+</body>
+</html>

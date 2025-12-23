@@ -1,0 +1,35 @@
+{
+  "name": "उल्फत - शायरी और ग़ज़ल | KITIKKA APPs ☂️",
+  "short_name": "उल्फत ☂️",
+  "description": "KITIKKA APPs ☂️ presents: हिंदी, उर्दू और मराठी की बेहतरीन शायरी और 52 मशहूर ग़ज़लों का संग्रह। प्रेम, दर्द, ज़िंदगी पर खूबसूरत अशआर।",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#8B4789",
+  "orientation": "portrait",
+  "categories": ["entertainment", "books", "lifestyle"],
+  "lang": "hi",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshot1.png",
+      "sizes": "540x960",
+      "type": "image/png"
+    }
+  ]
+}

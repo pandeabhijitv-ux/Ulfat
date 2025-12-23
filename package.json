@@ -1,0 +1,29 @@
+{
+  "name": "ulfat",
+  "version": "1.0.0",
+  "description": "उल्फत - Hindi, Urdu & Marathi Shayari App with Ghazals (PWA + Play Store Ready)",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 3000 -o",
+    "dev": "npx live-server --port=3000 --open=index.html",
+    "build": "echo 'PWA is ready for deployment!'",
+    "deploy": "echo 'See QUICK_DEPLOY.md for deployment instructions'",
+    "icons": "powershell -ExecutionPolicy Bypass -File ./generate_icons.ps1",
+    "android": "powershell -ExecutionPolicy Bypass -File ./build_android.ps1"
+  },
+  "keywords": [
+    "shayari",
+    "urdu",
+    "hindi",
+    "marathi",
+    "poetry",
+    "ghazal",
+    "pwa"
+  ],
+  "author": "KITIKKA APPs ☂️",
+  "license": "MIT",
+  "dependencies": {
+    "localforage": "^1.10.0"
+  },
+  "devDependencies": {}
+}
