@@ -19680,7 +19680,7 @@ function createFilters() {
     
     if (currentMode === 'shayari') {
         const languages = ['सभी', 'हिंदी', 'اردو', 'मराठी'];
-        const categories = ['सभी', 'रोमांटिक', 'दुःख', 'फिलोसफी'];
+        const categories = ['रोमांटिक', 'दुःख', 'फिलोसफी'];
         
         languages.forEach(lang => {
             const btn = document.createElement('button');
@@ -19699,8 +19699,8 @@ function createFilters() {
         });
     } else {
         // Ghazal filters - by language and famous poets
-        const languages = ['सभी', 'हिंदी', 'اردو'];
-        const poets = ['सभी', 'ग़ालिब', 'फ़ैज़', 'मीर', 'फ़राज़', 'फ़िराक़', 'साहिर', 'कैफ़ी'];
+        const languages = ['सभी', 'हिंदी', 'اردو', 'मराठी'];
+        const poets = ['सभी', 'श्री अटल बिहारी वाजपेयी', 'सुरेश भट', 'ग़ालिब', 'फ़ैज़', 'मीर', 'फ़राज़', 'फ़िराक़', 'साहिर', 'कैफ़ी'];
         
         languages.forEach(lang => {
             const btn = document.createElement('button');
@@ -19735,13 +19735,15 @@ function filterByCategory(cat) {
 
 // Ghazal Filter Functions
 function filterGhazalByLanguage(lang) {
-    const langMap = {'हिंदी': 'hindi', 'اردو': 'urdu', 'सभी': null};
+    const langMap = {'हिंदी': 'hindi', 'اردو': 'urdu', 'मराठी': 'marathi', 'सभी': null};
     selectedFilters.language = langMap[lang];
     applyGhazalFilters();
 }
 
 function filterGhazalByPoet(poet) {
     const poetMap = {
+        'श्री अटल बिहारी वाजपेयी': 'श्री. अटल बिहारी वाजपेयी',
+        'सुरेश भट': 'Suresh Bhat',
         'ग़ालिब': 'Mirza Ghalib',
         'फ़ैज़': 'Faiz Ahmad Faiz',
         'मीर': 'Mir Taqi Mir',
@@ -19798,16 +19800,18 @@ function setupSearch() {
         const query = e.target.value.toLowerCase();
         if (query) {
             if (currentMode === 'shayari') {
-                filteredShayari = shayariData.filter(item => 
-                    item.text.toLowerCase().includes(query) || 
-                    item.author.toLowerCase().includes(query)
-                );
+                filteredShayari = shayariData.filter(item => {
+                    if (!item || !item.text || !item.author) return false;
+                    return item.text.toLowerCase().includes(query) || 
+                           item.author.toLowerCase().includes(query);
+                });
             } else {
-                filteredGhazal = ghazalData.filter(item => 
-                    item.title.toLowerCase().includes(query) || 
-                    item.author.toLowerCase().includes(query) ||
-                    item.shers.some(sher => sher.toLowerCase().includes(query))
-                );
+                filteredGhazal = ghazalData.filter(item => {
+                    if (!item || !item.title || !item.author || !item.shers) return false;
+                    return item.title.toLowerCase().includes(query) || 
+                           item.author.toLowerCase().includes(query) ||
+                           item.shers.some(sher => sher.toLowerCase().includes(query));
+                });
             }
         } else {
             if (currentMode === 'shayari') {

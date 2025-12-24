@@ -211,6 +211,17 @@
             box-shadow: 0 4px 15px rgba(0,0,0,0.1);
         }
 
+        .help-note {
+            text-align: center;
+            color: rgba(255, 255, 255, 0.9);
+            font-size: 13px;
+            margin: 10px 0 15px 0;
+            padding: 8px 15px;
+            background: rgba(255, 255, 255, 0.15);
+            border-radius: 10px;
+            line-height: 1.5;
+        }
+
         .favorites-badge {
             position: fixed;
             top: 20px;
@@ -265,6 +276,97 @@
             color: #999;
         }
 
+        .disclaimer-modal .modal-content {
+            max-width: 450px;
+            text-align: center;
+        }
+
+        .disclaimer-title {
+            color: #8B4789;
+            font-size: 24px;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+
+        .disclaimer-text {
+            color: #555;
+            line-height: 1.8;
+            margin-bottom: 20px;
+            font-size: 16px;
+        }
+
+        .disclaimer-btn {
+            background: #8B4789;
+            color: white;
+            border: none;
+            padding: 12px 40px;
+            border-radius: 25px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .disclaimer-btn:hover {
+            background: #6d3569;
+            transform: translateY(-2px);
+        }
+
+        .footer-disclaimer {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 15px;
+            margin-top: 20px;
+            border-radius: 10px;
+            text-align: center;
+            color: #666;
+            font-size: 13px;
+            line-height: 1.6;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .footer-disclaimer strong {
+            color: #8B4789;
+        }
+
+        /* Ad Container Styles */
+        .ad-container {
+            min-height: 50px;
+            margin: 15px auto;
+            text-align: center;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 8px;
+            padding: 10px;
+            max-width: 100%;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .ad-container.loaded {
+            background: transparent;
+        }
+
+        .ad-top {
+            margin-bottom: 20px;
+            min-height: 60px;
+        }
+
+        .ad-bottom {
+            margin-top: 20px;
+            margin-bottom: 10px;
+            min-height: 60px;
+        }
+
+        .ad-inline {
+            margin: 20px auto;
+            min-height: 80px;
+        }
+
+        .ad-placeholder {
+            color: rgba(255, 255, 255, 0.3);
+            font-size: 11px;
+            padding: 8px;
+            display: none; /* Hidden by default */
+        }
+
         @keyframes fadeIn {
             from { opacity: 0; }
             to { opacity: 1; }
@@ -316,14 +418,21 @@
             <div class="subtitle">शेर-ओ-शायरी का खज़ाना</div>
         </div>
 
+        <!-- Top Ad Space -->
+        <div class="ad-container ad-top" id="ad-top">
+            <div class="ad-placeholder">विज्ञापन</div>
+        </div>
+
         <div class="mode-toggle">
             <button class="mode-btn active" onclick="switchMode('shayari')" id="shayariModeBtn">शायरी</button>
             <button class="mode-btn" onclick="switchMode('ghazal')" id="ghazalModeBtn">ग़ज़ल</button>
         </div>
 
-        <input type="text" class="search-box" id="searchBox" placeholder="खोजें... (Search)">
-
         <div class="filters" id="filters"></div>
+
+        <div class="help-note">💡 ऊपर के बटन से फ़िल्टर करें या नीचे खोजें<br><small>Use filters above or search below</small></div>
+
+        <input type="text" class="search-box" id="searchBox" lang="hi" placeholder="हिंदी में खोजें - जैसे: ग़ालिब, फ़ैज़, दिल, इश्क़...">
 
         <div class="counter" id="counter">Loading...</div>
 
@@ -352,6 +461,22 @@
         ❤️<span style="font-size:12px; position:absolute; bottom:2px; right:2px; background:#fff; color:#ff4757; border-radius:50%; width:18px; height:18px;" id="favCount">0</span>
     </div>
 
+    <!-- Bottom Ad Space -->
+    <div class="ad-container ad-bottom" id="ad-bottom">
+        <div class="ad-placeholder">विज्ञापन</div>
+    </div>
+
+    <!-- Disclaimer Modal -->
+    <div class="modal disclaimer-modal" id="disclaimerModal">
+        <div class="modal-content">
+            <div class="disclaimer-title">⚠️ अस्वीकरण</div>
+            <div class="disclaimer-text">
+                इस संग्रह में प्रस्तुत सभी शायरी, ग़ज़लें और कविताएँ विभिन्न वेबसाइटों और स्रोतों से संकलित की गई हैं।
+            </div>
+            <button class="disclaimer-btn" onclick="closeDisclaimer()">समझ गया ✓</button>
+        </div>
+    </div>
+
     <div class="modal" id="favoritesModal">
         <div class="modal-content">
             <span class="close-btn" onclick="closeFavorites()">×</span>
@@ -363,6 +488,98 @@
     <script src="ghazal_data.js?v=1.0"></script>
     <script src="shayari.js?v=3.1"></script>
     <script>
+        // ============ AD MANAGEMENT ============
+        // Runtime Ad Loader - Load ads dynamically without blocking page
+        const AdManager = {
+            // Configuration - Add your ad network details here
+            config: {
+                enabled: false, // Set to true when you have ad network configured
+                network: 'adsense', // 'adsense', 'medianet', 'propeller', etc.
+                publisherId: '', // Your publisher/client ID
+                adSlots: {
+                    top: '', // Ad slot ID for top banner
+                    bottom: '' // Ad slot ID for bottom banner
+                }
+            },
+
+            // Initialize ads after page load
+            init: function() {
+                if (!this.config.enabled) return;
+                
+                // Load ads after 2 seconds to not impact page load
+                setTimeout(() => {
+                    this.loadAd('ad-top', 'top');
+                    this.loadAd('ad-bottom', 'bottom');
+                }, 2000);
+            },
+
+            // Load specific ad unit
+            loadAd: function(containerId, slotType) {
+                const container = document.getElementById(containerId);
+                if (!container) return;
+
+                // Example: Google AdSense implementation
+                if (this.config.network === 'adsense' && this.config.publisherId) {
+                    const adScript = document.createElement('ins');
+                    adScript.className = 'adsbygoogle';
+                    adScript.style.display = 'block';
+                    adScript.setAttribute('data-ad-client', this.config.publisherId);
+                    adScript.setAttribute('data-ad-slot', this.config.adSlots[slotType]);
+                    adScript.setAttribute('data-ad-format', 'auto');
+                    adScript.setAttribute('data-full-width-responsive', 'true');
+                    
+                    container.innerHTML = '';
+                    container.appendChild(adScript);
+                    container.classList.add('loaded');
+                    
+                    // Push ad to AdSense
+                    try {
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    } catch (e) {
+                        console.log('Ad loading error:', e);
+                    }
+                }
+                
+                // Add other ad networks here as needed
+            },
+
+            // Load AdSense script (call this once)
+            loadAdSenseScript: function() {
+                if (this.config.network !== 'adsense' || !this.config.publisherId) return;
+                
+                const script = document.createElement('script');
+                script.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${this.config.publisherId}`;
+                script.async = true;
+                script.crossOrigin = 'anonymous';
+                document.head.appendChild(script);
+            }
+        };
+
+        // Initialize ads when page is ready
+        window.addEventListener('load', function() {
+            AdManager.loadAdSenseScript();
+            AdManager.init();
+        });
+
+        // ============ DISCLAIMER FUNCTIONS ============
+        // Disclaimer Modal Functions
+        function showDisclaimerOnFirstVisit() {
+            const hasSeenDisclaimer = localStorage.getItem('disclaimerSeen');
+            if (!hasSeenDisclaimer) {
+                document.getElementById('disclaimerModal').classList.add('active');
+            }
+        }
+
+        function closeDisclaimer() {
+            document.getElementById('disclaimerModal').classList.remove('active');
+            localStorage.setItem('disclaimerSeen', 'true');
+        }
+
+        // Show disclaimer on page load
+        window.addEventListener('DOMContentLoaded', function() {
+            setTimeout(showDisclaimerOnFirstVisit, 500);
+        });
+
         // Check if data loaded
         window.addEventListener('error', function(e) {
             console.error('Error loading:', e);
@@ -376,8 +593,11 @@
             });
         }
     </script>
-    <div style="text-align: center; padding: 15px 10px; color: #666; font-size: 0.85em; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); margin-top: 20px;">
-        Made with ❤️ by <strong>KRITTIKA Apps ☂️</strong>
+    <div class="footer-disclaimer">
+        <strong>अस्वीकरण:</strong> यहाँ संग्रहीत सभी शायरी, ग़ज़लें और कविताएँ विभिन्न स्रोतों से संकलित की गई हैं।<br>
+        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #ddd;">
+            Made with ❤️ by <strong>KRITTIKA Apps ☂️</strong>
+        </div>
     </div>
 </body>
 </html>
