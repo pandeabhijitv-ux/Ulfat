@@ -4094,7 +4094,6 @@ export const categories = [
   {id: 'romantic', label: 'रोमांटिक / प्रेम', icon: '💕'},
   {id: 'sad', label: 'दुख / गम', icon: '😢'},
   {id: 'philosophical', label: 'फ़लसफ़ाना / विचारशील', icon: '🤔'},
-  {id: 'devotional', label: 'भक्ति / आध्यात्मिक', icon: '🙏'},
 ];
 
 export const languages = [

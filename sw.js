@@ -1,5 +1,5 @@
 // Service Worker for PWA
-const CACHE_NAME = 'ulfat-v7';
+const CACHE_NAME = 'ulfat-v31';
 const urlsToCache = [
   '/',
   '/index.html',
