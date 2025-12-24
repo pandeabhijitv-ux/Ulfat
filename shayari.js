@@ -1696,9 +1696,7 @@ const hindiShayari = [
     author: 'Rahat Indori',
     text: `अपने सपनों को पूरा करने के लिये
 हर मुश्किल को पार करना होगा`,
-  }
-
-  
+  },
   {
     id: 506,
     language: 'hindi',
@@ -1711,7 +1709,7 @@ const hindiShayari = [
   {
     id: 507,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'वसीम बरेलवी',
     text: `जहाँ रहेगा वहीं रौशनी लुटाएगा
 किसी चराग़ का अपना मकाँ नहीं होता`,
@@ -1729,7 +1727,7 @@ const hindiShayari = [
   {
     id: 509,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'वसीम बरेलवी',
     text: `रात तो वक़्त की पाबंद है ढल जाएगी
 देखना ये है चराग़ों का सफ़र कितना है`,
@@ -1747,7 +1745,7 @@ const hindiShayari = [
   {
     id: 511,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'वसीम बरेलवी',
     text: `शाम तक सुब्ह की नज़रों से उतर जाते हैं
 इतने समझौतों पे जीते हैं कि मर जाते हैं`,
@@ -1801,7 +1799,7 @@ const hindiShayari = [
   {
     id: 517,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'वसीम बरेलवी',
     text: `बहुत से ख़्वाब देखोगे तो आँखें
 तुम्हारा साथ देना छोड़ देंगी`,
@@ -1810,7 +1808,7 @@ const hindiShayari = [
   {
     id: 518,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'वसीम बरेलवी',
     text: `थके-हारे परिंदे जब बसेरे के लिए लौटें
 सलीक़ा-मंद शाख़ों का लचक जाना ज़रूरी है`,
@@ -1855,7 +1853,7 @@ const hindiShayari = [
   {
     id: 523,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'वसीम बरेलवी',
     text: `जहाँ रहेगा वहीं रौशनी लुटाएगा
 किसी चराग़ का अपना मकाँ नहीं होता`,
@@ -1873,7 +1871,7 @@ const hindiShayari = [
   {
     id: 525,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'वसीम बरेलवी',
     text: `रात तो वक़्त की पाबंद है ढल जाएगी
 देखना ये है चराग़ों का सफ़र कितना है`,
@@ -1891,7 +1889,7 @@ const hindiShayari = [
   {
     id: 527,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'वसीम बरेलवी',
     text: `शाम तक सुब्ह की नज़रों से उतर जाते हैं
 इतने समझौतों पे जीते हैं कि मर जाते हैं`,
@@ -1945,7 +1943,7 @@ const hindiShayari = [
   {
     id: 533,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'वसीम बरेलवी',
     text: `बहुत से ख़्वाब देखोगे तो आँखें
 तुम्हारा साथ देना छोड़ देंगी`,
@@ -1954,7 +1952,7 @@ const hindiShayari = [
   {
     id: 534,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'वसीम बरेलवी',
     text: `थके-हारे परिंदे जब बसेरे के लिए लौटें
 सलीक़ा-मंद शाख़ों का लचक जाना ज़रूरी है`,
@@ -1990,7 +1988,7 @@ const hindiShayari = [
   {
     id: 538,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `रोती हुई एक भीड़ मिरे गिर्द खड़ी थी
 शायद ये तमाशा मिरे हँसने के लिए था`,
@@ -2008,7 +2006,7 @@ const hindiShayari = [
   {
     id: 540,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `सुनाइए वो लतीफ़ा हर एक जाम के साथ
 कि एक बूँद से ईमान टूट जाता है`,
@@ -2026,7 +2024,7 @@ const hindiShayari = [
   {
     id: 542,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `काँटों में रख के फूल हवा में उड़ा के ख़ाक
 करता है सौ तरह से इशारे मुझे कोई`,
@@ -2035,7 +2033,7 @@ const hindiShayari = [
   {
     id: 543,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `उगल देते हैं जो कुछ पेट में हो घर में आते ही
 परिंदे अपने बच्चों से अदाकारी नहीं करते`,
@@ -2062,7 +2060,7 @@ const hindiShayari = [
   {
     id: 546,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `शिकस्त खा चुके हैं हम मगर अज़ीज़ फ़ातेहो
 हमारे क़द से कम न हो फ़राज़-ए-दार देखना`,
@@ -2071,7 +2069,7 @@ const hindiShayari = [
   {
     id: 547,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `ख़ुद ही न डूब जाऊँ कि फ़ुर्सत मिले मुझे
 नेकी लदी है पुश्त पे दरिया है सामने`,
@@ -2080,7 +2078,7 @@ const hindiShayari = [
   {
     id: 548,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `अब 'उम्र का एहसास दिलाने लगे जुगनू
 दामन से मिरी आँख में आने लगे जुगनू`,
@@ -2089,7 +2087,7 @@ const hindiShayari = [
   {
     id: 549,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `दरवाज़े पे तहरीर यहाँ कोई नहीं है
 अन्दर कोई ज़ंजीर हिलाता है कि मैं हूँ`,
@@ -2107,7 +2105,7 @@ const hindiShayari = [
   {
     id: 551,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `ख़फ़ीफ़ रहते हैं अक्सर ज़मीर के आगे
 ये तू ने कैसे तराज़ू पे रख दिया है हमें`,
@@ -2116,7 +2114,7 @@ const hindiShayari = [
   {
     id: 552,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `अभी तो मैं दो क़दम चला हूँ ज़मीन क्यों तंग हो रही है
 मुझी पे क्यों आसमान टूटे अभी तो मैं पर निकालता था`,
@@ -2125,7 +2123,7 @@ const hindiShayari = [
   {
     id: 553,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `फ़ाख़्ता कहती रही फ़स्लें जला दी जाएँगी
 झूम कर आगे बढ़े बादल कि हम तो जाएँगे`,
@@ -2134,7 +2132,7 @@ const hindiShayari = [
   {
     id: 554,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `सूरज को तोड़-मोड़ के जब दिन किया तमाम
 तारों के टूटने से शब-ए-तार हिल गई`,
@@ -2143,7 +2141,7 @@ const hindiShayari = [
   {
     id: 555,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `वहाँ भी 'अक़्ल ही मसनद-नशीं मिली कि जहाँ
 मता'-ए-फ़िक्र-ओ-नज़र का कोई सवाल न था`,
@@ -2152,7 +2150,7 @@ const hindiShayari = [
   {
     id: 556,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `उस वक़्त जब तिलिस्म-ए-फ़लक टूटने को था
 ऐसा हुआ कि मुझ को बुलाने लगी ज़मीं`,
@@ -2161,7 +2159,7 @@ const hindiShayari = [
   {
     id: 557,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `रोती हुई एक भीड़ मिरे गिर्द खड़ी थी
 शायद ये तमाशा मिरे हँसने के लिए था`,
@@ -2179,7 +2177,7 @@ const hindiShayari = [
   {
     id: 559,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `सुनाइए वो लतीफ़ा हर एक जाम के साथ
 कि एक बूँद से ईमान टूट जाता है`,
@@ -2197,7 +2195,7 @@ const hindiShayari = [
   {
     id: 561,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `काँटों में रख के फूल हवा में उड़ा के ख़ाक
 करता है सौ तरह से इशारे मुझे कोई`,
@@ -2206,7 +2204,7 @@ const hindiShayari = [
   {
     id: 562,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `उगल देते हैं जो कुछ पेट में हो घर में आते ही
 परिंदे अपने बच्चों से अदाकारी नहीं करते`,
@@ -2233,7 +2231,7 @@ const hindiShayari = [
   {
     id: 565,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `शिकस्त खा चुके हैं हम मगर अज़ीज़ फ़ातेहो
 हमारे क़द से कम न हो फ़राज़-ए-दार देखना`,
@@ -2242,7 +2240,7 @@ const hindiShayari = [
   {
     id: 566,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `ख़ुद ही न डूब जाऊँ कि फ़ुर्सत मिले मुझे
 नेकी लदी है पुश्त पे दरिया है सामने`,
@@ -2251,7 +2249,7 @@ const hindiShayari = [
   {
     id: 567,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `अब 'उम्र का एहसास दिलाने लगे जुगनू
 दामन से मिरी आँख में आने लगे जुगनू`,
@@ -2260,7 +2258,7 @@ const hindiShayari = [
   {
     id: 568,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `दरवाज़े पे तहरीर यहाँ कोई नहीं है
 अन्दर कोई ज़ंजीर हिलाता है कि मैं हूँ`,
@@ -2278,7 +2276,7 @@ const hindiShayari = [
   {
     id: 570,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `ख़फ़ीफ़ रहते हैं अक्सर ज़मीर के आगे
 ये तू ने कैसे तराज़ू पे रख दिया है हमें`,
@@ -2287,7 +2285,7 @@ const hindiShayari = [
   {
     id: 571,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `अभी तो मैं दो क़दम चला हूँ ज़मीन क्यों तंग हो रही है
 मुझी पे क्यों आसमान टूटे अभी तो मैं पर निकालता था`,
@@ -2296,7 +2294,7 @@ const hindiShayari = [
   {
     id: 572,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `फ़ाख़्ता कहती रही फ़स्लें जला दी जाएँगी
 झूम कर आगे बढ़े बादल कि हम तो जाएँगे`,
@@ -2305,7 +2303,7 @@ const hindiShayari = [
   {
     id: 573,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `सूरज को तोड़-मोड़ के जब दिन किया तमाम
 तारों के टूटने से शब-ए-तार हिल गई`,
@@ -2314,7 +2312,7 @@ const hindiShayari = [
   {
     id: 574,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `वहाँ भी 'अक़्ल ही मसनद-नशीं मिली कि जहाँ
 मता'-ए-फ़िक्र-ओ-नज़र का कोई सवाल न था`,
@@ -2323,7 +2321,7 @@ const hindiShayari = [
   {
     id: 575,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `उस वक़्त जब तिलिस्म-ए-फ़लक टूटने को था
 ऐसा हुआ कि मुझ को बुलाने लगी ज़मीं`,
@@ -2332,7 +2330,7 @@ const hindiShayari = [
   {
     id: 576,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `रोती हुई एक भीड़ मिरे गिर्द खड़ी थी
 शायद ये तमाशा मिरे हँसने के लिए था`,
@@ -2350,7 +2348,7 @@ const hindiShayari = [
   {
     id: 578,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `सुनाइए वो लतीफ़ा हर एक जाम के साथ
 कि एक बूँद से ईमान टूट जाता है`,
@@ -2368,7 +2366,7 @@ const hindiShayari = [
   {
     id: 580,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `काँटों में रख के फूल हवा में उड़ा के ख़ाक
 करता है सौ तरह से इशारे मुझे कोई`,
@@ -2377,7 +2375,7 @@ const hindiShayari = [
   {
     id: 581,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `उगल देते हैं जो कुछ पेट में हो घर में आते ही
 परिंदे अपने बच्चों से अदाकारी नहीं करते`,
@@ -2404,7 +2402,7 @@ const hindiShayari = [
   {
     id: 584,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `शिकस्त खा चुके हैं हम मगर अज़ीज़ फ़ातेहो
 हमारे क़द से कम न हो फ़राज़-ए-दार देखना`,
@@ -2413,7 +2411,7 @@ const hindiShayari = [
   {
     id: 585,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `ख़ुद ही न डूब जाऊँ कि फ़ुर्सत मिले मुझे
 नेकी लदी है पुश्त पे दरिया है सामने`,
@@ -2422,7 +2420,7 @@ const hindiShayari = [
   {
     id: 586,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `अब 'उम्र का एहसास दिलाने लगे जुगनू
 दामन से मिरी आँख में आने लगे जुगनू`,
@@ -2431,7 +2429,7 @@ const hindiShayari = [
   {
     id: 587,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `दरवाज़े पे तहरीर यहाँ कोई नहीं है
 अन्दर कोई ज़ंजीर हिलाता है कि मैं हूँ`,
@@ -2449,7 +2447,7 @@ const hindiShayari = [
   {
     id: 589,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `ख़फ़ीफ़ रहते हैं अक्सर ज़मीर के आगे
 ये तू ने कैसे तराज़ू पे रख दिया है हमें`,
@@ -2458,7 +2456,7 @@ const hindiShayari = [
   {
     id: 590,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `अभी तो मैं दो क़दम चला हूँ ज़मीन क्यों तंग हो रही है
 मुझी पे क्यों आसमान टूटे अभी तो मैं पर निकालता था`,
@@ -2467,7 +2465,7 @@ const hindiShayari = [
   {
     id: 591,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `फ़ाख़्ता कहती रही फ़स्लें जला दी जाएँगी
 झूम कर आगे बढ़े बादल कि हम तो जाएँगे`,
@@ -2476,7 +2474,7 @@ const hindiShayari = [
   {
     id: 592,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `सूरज को तोड़-मोड़ के जब दिन किया तमाम
 तारों के टूटने से शब-ए-तार हिल गई`,
@@ -2485,7 +2483,7 @@ const hindiShayari = [
   {
     id: 593,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `वहाँ भी 'अक़्ल ही मसनद-नशीं मिली कि जहाँ
 मता'-ए-फ़िक्र-ओ-नज़र का कोई सवाल न था`,
@@ -2494,7 +2492,7 @@ const hindiShayari = [
   {
     id: 594,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मुज़फ़्फ़र हनफ़ी',
     text: `उस वक़्त जब तिलिस्म-ए-फ़लक टूटने को था
 ऐसा हुआ कि मुझ को बुलाने लगी ज़मीं`,
@@ -2503,7 +2501,7 @@ const hindiShayari = [
   {
     id: 595,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हम आह भी करते हैं तो हो जाते हैं बदनाम
 वो क़त्ल भी करते हैं तो चर्चा नहीं होता`,
@@ -2521,7 +2519,7 @@ const hindiShayari = [
   {
     id: 597,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `दुनिया में हूँ दुनिया का तलबगार नहीं हूँ
 बाज़ार से गुज़रा हूँ ख़रीदार नहीं हूँ`,
@@ -2530,7 +2528,7 @@ const hindiShayari = [
   {
     id: 598,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `पैदा हुआ वकील तो शैतान ने कहा
 लो आज हम भी साहिब-ए-औलाद हो गए`,
@@ -2548,7 +2546,7 @@ const hindiShayari = [
   {
     id: 600,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `मज़हबी बहस मैं ने की ही नहीं
 फ़ालतू अक़्ल मुझ में थी ही नहीं`,
@@ -2566,7 +2564,7 @@ const hindiShayari = [
   {
     id: 602,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `रहता है इबादत में हमें मौत का खटका
 हम याद-ए-ख़ुदा करते हैं कर ले न ख़ुदा याद`,
@@ -2575,7 +2573,7 @@ const hindiShayari = [
   {
     id: 603,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `अकबर दबे नहीं किसी सुल्ताँ की फ़ौज से
 लेकिन शहीद हो गए बीवी की नौज से`,
@@ -2584,7 +2582,7 @@ const hindiShayari = [
   {
     id: 604,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हम ऐसी कुल किताबें क़ाबिल-ए-ज़ब्ती समझते हैं
 कि जिन को पढ़ के लड़के बाप को ख़ब्ती समझते हैं`,
@@ -2593,7 +2591,7 @@ const hindiShayari = [
   {
     id: 605,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `मैं भी ग्रेजुएट हूँ तुम भी ग्रेजुएट
 इल्मी मुबाहिसे हों ज़रा पास आ के लेट`,
@@ -2602,7 +2600,7 @@ const hindiShayari = [
   {
     id: 606,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हंगामा है क्यूँ बरपा थोड़ी सी जो पी ली है
 डाका तो नहीं मारा चोरी तो नहीं की है`,
@@ -2611,7 +2609,7 @@ const hindiShayari = [
   {
     id: 607,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `बी.ए भी पास हों मिले बी-बी भी दिल-पसंद
 मेहनत की है वो बात ये क़िस्मत की बात है`,
@@ -2629,7 +2627,7 @@ const hindiShayari = [
   {
     id: 609,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हक़ीक़ी और मजाज़ी शायरी में फ़र्क़ ये पाया
 कि वो जामे से बाहर है ये पाजामे से बाहर है`,
@@ -2638,7 +2636,7 @@ const hindiShayari = [
   {
     id: 610,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `इस क़दर था खटमलों का चारपाई में हुजूम
 वस्ल का दिल से मिरे अरमान रुख़्सत हो गया`,
@@ -2647,7 +2645,7 @@ const hindiShayari = [
   {
     id: 611,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `कोट और पतलून जब पहना तो मिस्टर बन गया
 जब कोई तक़रीर की जलसे में लीडर बन गया`,
@@ -2656,7 +2654,7 @@ const hindiShayari = [
   {
     id: 612,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `धमका के बोसे लूँगा रुख़-ए-रश्क-ए-माह का
 चंदा वसूल होता है साहब दबाव से`,
@@ -2665,7 +2663,7 @@ const hindiShayari = [
   {
     id: 613,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हम आह भी करते हैं तो हो जाते हैं बदनाम
 वो क़त्ल भी करते हैं तो चर्चा नहीं होता`,
@@ -2683,7 +2681,7 @@ const hindiShayari = [
   {
     id: 615,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `दुनिया में हूँ दुनिया का तलबगार नहीं हूँ
 बाज़ार से गुज़रा हूँ ख़रीदार नहीं हूँ`,
@@ -2692,7 +2690,7 @@ const hindiShayari = [
   {
     id: 616,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `पैदा हुआ वकील तो शैतान ने कहा
 लो आज हम भी साहिब-ए-औलाद हो गए`,
@@ -2710,7 +2708,7 @@ const hindiShayari = [
   {
     id: 618,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `मज़हबी बहस मैं ने की ही नहीं
 फ़ालतू अक़्ल मुझ में थी ही नहीं`,
@@ -2728,7 +2726,7 @@ const hindiShayari = [
   {
     id: 620,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `रहता है इबादत में हमें मौत का खटका
 हम याद-ए-ख़ुदा करते हैं कर ले न ख़ुदा याद`,
@@ -2737,7 +2735,7 @@ const hindiShayari = [
   {
     id: 621,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `अकबर दबे नहीं किसी सुल्ताँ की फ़ौज से
 लेकिन शहीद हो गए बीवी की नौज से`,
@@ -2746,7 +2744,7 @@ const hindiShayari = [
   {
     id: 622,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हम ऐसी कुल किताबें क़ाबिल-ए-ज़ब्ती समझते हैं
 कि जिन को पढ़ के लड़के बाप को ख़ब्ती समझते हैं`,
@@ -2755,7 +2753,7 @@ const hindiShayari = [
   {
     id: 623,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `मैं भी ग्रेजुएट हूँ तुम भी ग्रेजुएट
 इल्मी मुबाहिसे हों ज़रा पास आ के लेट`,
@@ -2764,7 +2762,7 @@ const hindiShayari = [
   {
     id: 624,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हंगामा है क्यूँ बरपा थोड़ी सी जो पी ली है
 डाका तो नहीं मारा चोरी तो नहीं की है`,
@@ -2773,7 +2771,7 @@ const hindiShayari = [
   {
     id: 625,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `बी.ए भी पास हों मिले बी-बी भी दिल-पसंद
 मेहनत की है वो बात ये क़िस्मत की बात है`,
@@ -2791,7 +2789,7 @@ const hindiShayari = [
   {
     id: 627,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हक़ीक़ी और मजाज़ी शायरी में फ़र्क़ ये पाया
 कि वो जामे से बाहर है ये पाजामे से बाहर है`,
@@ -2800,7 +2798,7 @@ const hindiShayari = [
   {
     id: 628,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `इस क़दर था खटमलों का चारपाई में हुजूम
 वस्ल का दिल से मिरे अरमान रुख़्सत हो गया`,
@@ -2809,7 +2807,7 @@ const hindiShayari = [
   {
     id: 629,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `कोट और पतलून जब पहना तो मिस्टर बन गया
 जब कोई तक़रीर की जलसे में लीडर बन गया`,
@@ -2818,7 +2816,7 @@ const hindiShayari = [
   {
     id: 630,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `धमका के बोसे लूँगा रुख़-ए-रश्क-ए-माह का
 चंदा वसूल होता है साहब दबाव से`,
@@ -2827,7 +2825,7 @@ const hindiShayari = [
   {
     id: 631,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हम आह भी करते हैं तो हो जाते हैं बदनाम
 वो क़त्ल भी करते हैं तो चर्चा नहीं होता`,
@@ -2845,7 +2843,7 @@ const hindiShayari = [
   {
     id: 633,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `दुनिया में हूँ दुनिया का तलबगार नहीं हूँ
 बाज़ार से गुज़रा हूँ ख़रीदार नहीं हूँ`,
@@ -2854,7 +2852,7 @@ const hindiShayari = [
   {
     id: 634,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `पैदा हुआ वकील तो शैतान ने कहा
 लो आज हम भी साहिब-ए-औलाद हो गए`,
@@ -2872,7 +2870,7 @@ const hindiShayari = [
   {
     id: 636,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `मज़हबी बहस मैं ने की ही नहीं
 फ़ालतू अक़्ल मुझ में थी ही नहीं`,
@@ -2890,7 +2888,7 @@ const hindiShayari = [
   {
     id: 638,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `रहता है इबादत में हमें मौत का खटका
 हम याद-ए-ख़ुदा करते हैं कर ले न ख़ुदा याद`,
@@ -2899,7 +2897,7 @@ const hindiShayari = [
   {
     id: 639,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `अकबर दबे नहीं किसी सुल्ताँ की फ़ौज से
 लेकिन शहीद हो गए बीवी की नौज से`,
@@ -2908,7 +2906,7 @@ const hindiShayari = [
   {
     id: 640,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हम ऐसी कुल किताबें क़ाबिल-ए-ज़ब्ती समझते हैं
 कि जिन को पढ़ के लड़के बाप को ख़ब्ती समझते हैं`,
@@ -2917,7 +2915,7 @@ const hindiShayari = [
   {
     id: 641,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `मैं भी ग्रेजुएट हूँ तुम भी ग्रेजुएट
 इल्मी मुबाहिसे हों ज़रा पास आ के लेट`,
@@ -2926,7 +2924,7 @@ const hindiShayari = [
   {
     id: 642,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हंगामा है क्यूँ बरपा थोड़ी सी जो पी ली है
 डाका तो नहीं मारा चोरी तो नहीं की है`,
@@ -2935,7 +2933,7 @@ const hindiShayari = [
   {
     id: 643,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `बी.ए भी पास हों मिले बी-बी भी दिल-पसंद
 मेहनत की है वो बात ये क़िस्मत की बात है`,
@@ -2953,7 +2951,7 @@ const hindiShayari = [
   {
     id: 645,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हक़ीक़ी और मजाज़ी शायरी में फ़र्क़ ये पाया
 कि वो जामे से बाहर है ये पाजामे से बाहर है`,
@@ -2962,7 +2960,7 @@ const hindiShayari = [
   {
     id: 646,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `इस क़दर था खटमलों का चारपाई में हुजूम
 वस्ल का दिल से मिरे अरमान रुख़्सत हो गया`,
@@ -2971,7 +2969,7 @@ const hindiShayari = [
   {
     id: 647,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `कोट और पतलून जब पहना तो मिस्टर बन गया
 जब कोई तक़रीर की जलसे में लीडर बन गया`,
@@ -2980,7 +2978,7 @@ const hindiShayari = [
   {
     id: 648,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `धमका के बोसे लूँगा रुख़-ए-रश्क-ए-माह का
 चंदा वसूल होता है साहब दबाव से`,
@@ -2989,7 +2987,7 @@ const hindiShayari = [
   {
     id: 649,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हम आह भी करते हैं तो हो जाते हैं बदनाम
 वो क़त्ल भी करते हैं तो चर्चा नहीं होता`,
@@ -3007,7 +3005,7 @@ const hindiShayari = [
   {
     id: 651,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `दुनिया में हूँ दुनिया का तलबगार नहीं हूँ
 बाज़ार से गुज़रा हूँ ख़रीदार नहीं हूँ`,
@@ -3016,7 +3014,7 @@ const hindiShayari = [
   {
     id: 652,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `पैदा हुआ वकील तो शैतान ने कहा
 लो आज हम भी साहिब-ए-औलाद हो गए`,
@@ -3034,7 +3032,7 @@ const hindiShayari = [
   {
     id: 654,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `मज़हबी बहस मैं ने की ही नहीं
 फ़ालतू अक़्ल मुझ में थी ही नहीं`,
@@ -3052,7 +3050,7 @@ const hindiShayari = [
   {
     id: 656,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `रहता है इबादत में हमें मौत का खटका
 हम याद-ए-ख़ुदा करते हैं कर ले न ख़ुदा याद`,
@@ -3061,7 +3059,7 @@ const hindiShayari = [
   {
     id: 657,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `अकबर दबे नहीं किसी सुल्ताँ की फ़ौज से
 लेकिन शहीद हो गए बीवी की नौज से`,
@@ -3070,7 +3068,7 @@ const hindiShayari = [
   {
     id: 658,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हम ऐसी कुल किताबें क़ाबिल-ए-ज़ब्ती समझते हैं
 कि जिन को पढ़ के लड़के बाप को ख़ब्ती समझते हैं`,
@@ -3079,7 +3077,7 @@ const hindiShayari = [
   {
     id: 659,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `मैं भी ग्रेजुएट हूँ तुम भी ग्रेजुएट
 इल्मी मुबाहिसे हों ज़रा पास आ के लेट`,
@@ -3088,7 +3086,7 @@ const hindiShayari = [
   {
     id: 660,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हंगामा है क्यूँ बरपा थोड़ी सी जो पी ली है
 डाका तो नहीं मारा चोरी तो नहीं की है`,
@@ -3097,7 +3095,7 @@ const hindiShayari = [
   {
     id: 661,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `बी.ए भी पास हों मिले बी-बी भी दिल-पसंद
 मेहनत की है वो बात ये क़िस्मत की बात है`,
@@ -3115,7 +3113,7 @@ const hindiShayari = [
   {
     id: 663,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हक़ीक़ी और मजाज़ी शायरी में फ़र्क़ ये पाया
 कि वो जामे से बाहर है ये पाजामे से बाहर है`,
@@ -3124,7 +3122,7 @@ const hindiShayari = [
   {
     id: 664,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `इस क़दर था खटमलों का चारपाई में हुजूम
 वस्ल का दिल से मिरे अरमान रुख़्सत हो गया`,
@@ -3133,7 +3131,7 @@ const hindiShayari = [
   {
     id: 665,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `कोट और पतलून जब पहना तो मिस्टर बन गया
 जब कोई तक़रीर की जलसे में लीडर बन गया`,
@@ -3142,7 +3140,7 @@ const hindiShayari = [
   {
     id: 666,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `धमका के बोसे लूँगा रुख़-ए-रश्क-ए-माह का
 चंदा वसूल होता है साहब दबाव से`,
@@ -3151,7 +3149,7 @@ const hindiShayari = [
   {
     id: 667,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हम आह भी करते हैं तो हो जाते हैं बदनाम
 वो क़त्ल भी करते हैं तो चर्चा नहीं होता`,
@@ -3169,7 +3167,7 @@ const hindiShayari = [
   {
     id: 669,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `दुनिया में हूँ दुनिया का तलबगार नहीं हूँ
 बाज़ार से गुज़रा हूँ ख़रीदार नहीं हूँ`,
@@ -3178,7 +3176,7 @@ const hindiShayari = [
   {
     id: 670,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `पैदा हुआ वकील तो शैतान ने कहा
 लो आज हम भी साहिब-ए-औलाद हो गए`,
@@ -3196,7 +3194,7 @@ const hindiShayari = [
   {
     id: 672,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `मज़हबी बहस मैं ने की ही नहीं
 फ़ालतू अक़्ल मुझ में थी ही नहीं`,
@@ -3214,7 +3212,7 @@ const hindiShayari = [
   {
     id: 674,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `रहता है इबादत में हमें मौत का खटका
 हम याद-ए-ख़ुदा करते हैं कर ले न ख़ुदा याद`,
@@ -3223,7 +3221,7 @@ const hindiShayari = [
   {
     id: 675,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `अकबर दबे नहीं किसी सुल्ताँ की फ़ौज से
 लेकिन शहीद हो गए बीवी की नौज से`,
@@ -3232,7 +3230,7 @@ const hindiShayari = [
   {
     id: 676,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हम ऐसी कुल किताबें क़ाबिल-ए-ज़ब्ती समझते हैं
 कि जिन को पढ़ के लड़के बाप को ख़ब्ती समझते हैं`,
@@ -3241,7 +3239,7 @@ const hindiShayari = [
   {
     id: 677,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `मैं भी ग्रेजुएट हूँ तुम भी ग्रेजुएट
 इल्मी मुबाहिसे हों ज़रा पास आ के लेट`,
@@ -3250,7 +3248,7 @@ const hindiShayari = [
   {
     id: 678,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हंगामा है क्यूँ बरपा थोड़ी सी जो पी ली है
 डाका तो नहीं मारा चोरी तो नहीं की है`,
@@ -3259,7 +3257,7 @@ const hindiShayari = [
   {
     id: 679,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `बी.ए भी पास हों मिले बी-बी भी दिल-पसंद
 मेहनत की है वो बात ये क़िस्मत की बात है`,
@@ -3277,7 +3275,7 @@ const hindiShayari = [
   {
     id: 681,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `हक़ीक़ी और मजाज़ी शायरी में फ़र्क़ ये पाया
 कि वो जामे से बाहर है ये पाजामे से बाहर है`,
@@ -3286,7 +3284,7 @@ const hindiShayari = [
   {
     id: 682,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `इस क़दर था खटमलों का चारपाई में हुजूम
 वस्ल का दिल से मिरे अरमान रुख़्सत हो गया`,
@@ -3295,7 +3293,7 @@ const hindiShayari = [
   {
     id: 683,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `कोट और पतलून जब पहना तो मिस्टर बन गया
 जब कोई तक़रीर की जलसे में लीडर बन गया`,
@@ -3304,7 +3302,7 @@ const hindiShayari = [
   {
     id: 684,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अकबर इलाहाबादी',
     text: `धमका के बोसे लूँगा रुख़-ए-रश्क-ए-माह का
 चंदा वसूल होता है साहब दबाव से`,
@@ -3322,7 +3320,7 @@ const hindiShayari = [
   {
     id: 686,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `हवा के दोश पे रक्खे हुए चराग़ हैं हम
 जो बुझ गए तो हवा से शिकायतें कैसी`,
@@ -3340,7 +3338,7 @@ const hindiShayari = [
   {
     id: 688,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जवानी क्या हुई इक रात की कहानी हुई
 बदन पुराना हुआ रूह भी पुरानी हुई`,
@@ -3376,7 +3374,7 @@ const hindiShayari = [
   {
     id: 692,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `रौशनी आधी इधर आधी उधर
 इक दिया रक्खा है दीवारों के बीच`,
@@ -3412,7 +3410,7 @@ const hindiShayari = [
   {
     id: 696,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `अगर हों कच्चे घरोंदों में आदमी आबाद
 तो एक अब्र भी सैलाब के बराबर है`,
@@ -3439,7 +3437,7 @@ const hindiShayari = [
   {
     id: 699,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जो आ रही है सदा ग़ौर से सुनो उस को
 कि इस सदा में ख़ुदा बोलता सा लगता है`,
@@ -3457,7 +3455,7 @@ const hindiShayari = [
   {
     id: 701,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `खा गया इंसाँ को आशोब-ए-मआश
 आ गए हैं शहर बाज़ारों के बीच`,
@@ -3484,7 +3482,7 @@ const hindiShayari = [
   {
     id: 704,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `हवा के दोश पे रक्खे हुए चराग़ हैं हम
 जो बुझ गए तो हवा से शिकायतें कैसी`,
@@ -3502,7 +3500,7 @@ const hindiShayari = [
   {
     id: 706,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जवानी क्या हुई इक रात की कहानी हुई
 बदन पुराना हुआ रूह भी पुरानी हुई`,
@@ -3538,7 +3536,7 @@ const hindiShayari = [
   {
     id: 710,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `रौशनी आधी इधर आधी उधर
 इक दिया रक्खा है दीवारों के बीच`,
@@ -3574,7 +3572,7 @@ const hindiShayari = [
   {
     id: 714,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `अगर हों कच्चे घरोंदों में आदमी आबाद
 तो एक अब्र भी सैलाब के बराबर है`,
@@ -3601,7 +3599,7 @@ const hindiShayari = [
   {
     id: 717,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जो आ रही है सदा ग़ौर से सुनो उस को
 कि इस सदा में ख़ुदा बोलता सा लगता है`,
@@ -3619,7 +3617,7 @@ const hindiShayari = [
   {
     id: 719,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `खा गया इंसाँ को आशोब-ए-मआश
 आ गए हैं शहर बाज़ारों के बीच`,
@@ -3646,7 +3644,7 @@ const hindiShayari = [
   {
     id: 722,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `हवा के दोश पे रक्खे हुए चराग़ हैं हम
 जो बुझ गए तो हवा से शिकायतें कैसी`,
@@ -3664,7 +3662,7 @@ const hindiShayari = [
   {
     id: 724,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जवानी क्या हुई इक रात की कहानी हुई
 बदन पुराना हुआ रूह भी पुरानी हुई`,
@@ -3700,7 +3698,7 @@ const hindiShayari = [
   {
     id: 728,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `रौशनी आधी इधर आधी उधर
 इक दिया रक्खा है दीवारों के बीच`,
@@ -3736,7 +3734,7 @@ const hindiShayari = [
   {
     id: 732,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `अगर हों कच्चे घरोंदों में आदमी आबाद
 तो एक अब्र भी सैलाब के बराबर है`,
@@ -3763,7 +3761,7 @@ const hindiShayari = [
   {
     id: 735,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जो आ रही है सदा ग़ौर से सुनो उस को
 कि इस सदा में ख़ुदा बोलता सा लगता है`,
@@ -3781,7 +3779,7 @@ const hindiShayari = [
   {
     id: 737,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `खा गया इंसाँ को आशोब-ए-मआश
 आ गए हैं शहर बाज़ारों के बीच`,
@@ -3808,7 +3806,7 @@ const hindiShayari = [
   {
     id: 740,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `हवा के दोश पे रक्खे हुए चराग़ हैं हम
 जो बुझ गए तो हवा से शिकायतें कैसी`,
@@ -3826,7 +3824,7 @@ const hindiShayari = [
   {
     id: 742,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जवानी क्या हुई इक रात की कहानी हुई
 बदन पुराना हुआ रूह भी पुरानी हुई`,
@@ -3862,7 +3860,7 @@ const hindiShayari = [
   {
     id: 746,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `रौशनी आधी इधर आधी उधर
 इक दिया रक्खा है दीवारों के बीच`,
@@ -3898,7 +3896,7 @@ const hindiShayari = [
   {
     id: 750,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `अगर हों कच्चे घरोंदों में आदमी आबाद
 तो एक अब्र भी सैलाब के बराबर है`,
@@ -3925,7 +3923,7 @@ const hindiShayari = [
   {
     id: 753,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जो आ रही है सदा ग़ौर से सुनो उस को
 कि इस सदा में ख़ुदा बोलता सा लगता है`,
@@ -3943,7 +3941,7 @@ const hindiShayari = [
   {
     id: 755,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `खा गया इंसाँ को आशोब-ए-मआश
 आ गए हैं शहर बाज़ारों के बीच`,
@@ -3970,7 +3968,7 @@ const hindiShayari = [
   {
     id: 758,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `हवा के दोश पे रक्खे हुए चराग़ हैं हम
 जो बुझ गए तो हवा से शिकायतें कैसी`,
@@ -3988,7 +3986,7 @@ const hindiShayari = [
   {
     id: 760,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जवानी क्या हुई इक रात की कहानी हुई
 बदन पुराना हुआ रूह भी पुरानी हुई`,
@@ -4024,7 +4022,7 @@ const hindiShayari = [
   {
     id: 764,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `रौशनी आधी इधर आधी उधर
 इक दिया रक्खा है दीवारों के बीच`,
@@ -4060,7 +4058,7 @@ const hindiShayari = [
   {
     id: 768,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `अगर हों कच्चे घरोंदों में आदमी आबाद
 तो एक अब्र भी सैलाब के बराबर है`,
@@ -4087,7 +4085,7 @@ const hindiShayari = [
   {
     id: 771,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जो आ रही है सदा ग़ौर से सुनो उस को
 कि इस सदा में ख़ुदा बोलता सा लगता है`,
@@ -4105,7 +4103,7 @@ const hindiShayari = [
   {
     id: 773,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `खा गया इंसाँ को आशोब-ए-मआश
 आ गए हैं शहर बाज़ारों के बीच`,
@@ -4132,7 +4130,7 @@ const hindiShayari = [
   {
     id: 776,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `हवा के दोश पे रक्खे हुए चराग़ हैं हम
 जो बुझ गए तो हवा से शिकायतें कैसी`,
@@ -4150,7 +4148,7 @@ const hindiShayari = [
   {
     id: 778,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जवानी क्या हुई इक रात की कहानी हुई
 बदन पुराना हुआ रूह भी पुरानी हुई`,
@@ -4186,7 +4184,7 @@ const hindiShayari = [
   {
     id: 782,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `रौशनी आधी इधर आधी उधर
 इक दिया रक्खा है दीवारों के बीच`,
@@ -4222,7 +4220,7 @@ const hindiShayari = [
   {
     id: 786,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `अगर हों कच्चे घरोंदों में आदमी आबाद
 तो एक अब्र भी सैलाब के बराबर है`,
@@ -4249,7 +4247,7 @@ const hindiShayari = [
   {
     id: 789,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जो आ रही है सदा ग़ौर से सुनो उस को
 कि इस सदा में ख़ुदा बोलता सा लगता है`,
@@ -4267,7 +4265,7 @@ const hindiShayari = [
   {
     id: 791,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `खा गया इंसाँ को आशोब-ए-मआश
 आ गए हैं शहर बाज़ारों के बीच`,
@@ -4294,7 +4292,7 @@ const hindiShayari = [
   {
     id: 794,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `हवा के दोश पे रक्खे हुए चराग़ हैं हम
 जो बुझ गए तो हवा से शिकायतें कैसी`,
@@ -4312,7 +4310,7 @@ const hindiShayari = [
   {
     id: 796,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जवानी क्या हुई इक रात की कहानी हुई
 बदन पुराना हुआ रूह भी पुरानी हुई`,
@@ -4348,7 +4346,7 @@ const hindiShayari = [
   {
     id: 800,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `रौशनी आधी इधर आधी उधर
 इक दिया रक्खा है दीवारों के बीच`,
@@ -4384,7 +4382,7 @@ const hindiShayari = [
   {
     id: 804,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `अगर हों कच्चे घरोंदों में आदमी आबाद
 तो एक अब्र भी सैलाब के बराबर है`,
@@ -4411,7 +4409,7 @@ const hindiShayari = [
   {
     id: 807,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जो आ रही है सदा ग़ौर से सुनो उस को
 कि इस सदा में ख़ुदा बोलता सा लगता है`,
@@ -4429,7 +4427,7 @@ const hindiShayari = [
   {
     id: 809,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `खा गया इंसाँ को आशोब-ए-मआश
 आ गए हैं शहर बाज़ारों के बीच`,
@@ -4456,7 +4454,7 @@ const hindiShayari = [
   {
     id: 812,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `हवा के दोश पे रक्खे हुए चराग़ हैं हम
 जो बुझ गए तो हवा से शिकायतें कैसी`,
@@ -4474,7 +4472,7 @@ const hindiShayari = [
   {
     id: 814,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जवानी क्या हुई इक रात की कहानी हुई
 बदन पुराना हुआ रूह भी पुरानी हुई`,
@@ -4510,7 +4508,7 @@ const hindiShayari = [
   {
     id: 818,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `रौशनी आधी इधर आधी उधर
 इक दिया रक्खा है दीवारों के बीच`,
@@ -4546,7 +4544,7 @@ const hindiShayari = [
   {
     id: 822,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `अगर हों कच्चे घरोंदों में आदमी आबाद
 तो एक अब्र भी सैलाब के बराबर है`,
@@ -4573,7 +4571,7 @@ const hindiShayari = [
   {
     id: 825,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जो आ रही है सदा ग़ौर से सुनो उस को
 कि इस सदा में ख़ुदा बोलता सा लगता है`,
@@ -4591,7 +4589,7 @@ const hindiShayari = [
   {
     id: 827,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `खा गया इंसाँ को आशोब-ए-मआश
 आ गए हैं शहर बाज़ारों के बीच`,
@@ -4618,7 +4616,7 @@ const hindiShayari = [
   {
     id: 830,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `हवा के दोश पे रक्खे हुए चराग़ हैं हम
 जो बुझ गए तो हवा से शिकायतें कैसी`,
@@ -4636,7 +4634,7 @@ const hindiShayari = [
   {
     id: 832,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जवानी क्या हुई इक रात की कहानी हुई
 बदन पुराना हुआ रूह भी पुरानी हुई`,
@@ -4672,7 +4670,7 @@ const hindiShayari = [
   {
     id: 836,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `रौशनी आधी इधर आधी उधर
 इक दिया रक्खा है दीवारों के बीच`,
@@ -4708,7 +4706,7 @@ const hindiShayari = [
   {
     id: 840,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `अगर हों कच्चे घरोंदों में आदमी आबाद
 तो एक अब्र भी सैलाब के बराबर है`,
@@ -4735,7 +4733,7 @@ const hindiShayari = [
   {
     id: 843,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `जो आ रही है सदा ग़ौर से सुनो उस को
 कि इस सदा में ख़ुदा बोलता सा लगता है`,
@@ -4753,7 +4751,7 @@ const hindiShayari = [
   {
     id: 845,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'उबैदुल्लाह अलीम',
     text: `खा गया इंसाँ को आशोब-ए-मआश
 आ गए हैं शहर बाज़ारों के बीच`,
@@ -4771,7 +4769,7 @@ const hindiShayari = [
   {
     id: 847,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `उठो ये मंज़र-ए-शब-ताब देखने के लिए
 कि नींद शर्त नहीं ख़्वाब देखने के लिए`,
@@ -4789,7 +4787,7 @@ const hindiShayari = [
   {
     id: 849,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `तुम परिंदों से ज़ियादा तो नहीं हो आज़ाद
 शाम होने को है अब घर की तरफ़ लौट चलो`,
@@ -4798,7 +4796,7 @@ const hindiShayari = [
   {
     id: 850,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `रात को जीत तो पाता नहीं लेकिन ये चराग़
 कम से कम रात का नुक़सान बहुत करता है`,
@@ -4807,7 +4805,7 @@ const hindiShayari = [
   {
     id: 851,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `होशियारी दिल-ए-नादान बहुत करता है
 रंज कम सहता है एलान बहुत करता है`,
@@ -4825,7 +4823,7 @@ const hindiShayari = [
   {
     id: 853,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `सर अगर सर है तो नेज़ों से शिकायत कैसी
 दिल अगर दिल है तो दरिया से बड़ा होना है`,
@@ -4834,7 +4832,7 @@ const hindiShayari = [
   {
     id: 854,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `जो कुछ हुआ वो कैसे हुआ जानता हूँ मैं
 जो कुछ नहीं हुआ वो बता क्यूँ नहीं हुआ`,
@@ -4843,7 +4841,7 @@ const hindiShayari = [
   {
     id: 855,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `रेत पर थक के गिरा हूँ तो हवा पूछती है
 आप इस दश्त में क्यूँ आए थे वहशत के बग़ैर`,
@@ -4870,7 +4868,7 @@ const hindiShayari = [
   {
     id: 858,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `सरहदें अच्छी कि सरहद पे न रुकना अच्छा
 सोचिए आदमी अच्छा कि परिंदा अच्छा`,
@@ -4888,7 +4886,7 @@ const hindiShayari = [
   {
     id: 860,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `मैं चाहता हूँ यहीं सारे फ़ैसले हो जाएँ
 कि इस के ब'अद ये दुनिया कहाँ से लाऊँगा मैं`,
@@ -4933,7 +4931,7 @@ const hindiShayari = [
   {
     id: 865,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हमारे दिल को इक आज़ार है ऐसा नहीं लगता
 कि हम दफ़्तर भी जाते हैं ग़ज़ल-ख़्वानी भी करते हैं`,
@@ -4951,7 +4949,7 @@ const hindiShayari = [
   {
     id: 867,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `उठो ये मंज़र-ए-शब-ताब देखने के लिए
 कि नींद शर्त नहीं ख़्वाब देखने के लिए`,
@@ -4969,7 +4967,7 @@ const hindiShayari = [
   {
     id: 869,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `तुम परिंदों से ज़ियादा तो नहीं हो आज़ाद
 शाम होने को है अब घर की तरफ़ लौट चलो`,
@@ -4978,7 +4976,7 @@ const hindiShayari = [
   {
     id: 870,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `रात को जीत तो पाता नहीं लेकिन ये चराग़
 कम से कम रात का नुक़सान बहुत करता है`,
@@ -4987,7 +4985,7 @@ const hindiShayari = [
   {
     id: 871,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `होशियारी दिल-ए-नादान बहुत करता है
 रंज कम सहता है एलान बहुत करता है`,
@@ -5005,7 +5003,7 @@ const hindiShayari = [
   {
     id: 873,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `सर अगर सर है तो नेज़ों से शिकायत कैसी
 दिल अगर दिल है तो दरिया से बड़ा होना है`,
@@ -5014,7 +5012,7 @@ const hindiShayari = [
   {
     id: 874,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `जो कुछ हुआ वो कैसे हुआ जानता हूँ मैं
 जो कुछ नहीं हुआ वो बता क्यूँ नहीं हुआ`,
@@ -5023,7 +5021,7 @@ const hindiShayari = [
   {
     id: 875,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `रेत पर थक के गिरा हूँ तो हवा पूछती है
 आप इस दश्त में क्यूँ आए थे वहशत के बग़ैर`,
@@ -5050,7 +5048,7 @@ const hindiShayari = [
   {
     id: 878,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `सरहदें अच्छी कि सरहद पे न रुकना अच्छा
 सोचिए आदमी अच्छा कि परिंदा अच्छा`,
@@ -5068,7 +5066,7 @@ const hindiShayari = [
   {
     id: 880,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `मैं चाहता हूँ यहीं सारे फ़ैसले हो जाएँ
 कि इस के ब'अद ये दुनिया कहाँ से लाऊँगा मैं`,
@@ -5113,7 +5111,7 @@ const hindiShayari = [
   {
     id: 885,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हमारे दिल को इक आज़ार है ऐसा नहीं लगता
 कि हम दफ़्तर भी जाते हैं ग़ज़ल-ख़्वानी भी करते हैं`,
@@ -5131,7 +5129,7 @@ const hindiShayari = [
   {
     id: 887,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `उठो ये मंज़र-ए-शब-ताब देखने के लिए
 कि नींद शर्त नहीं ख़्वाब देखने के लिए`,
@@ -5149,7 +5147,7 @@ const hindiShayari = [
   {
     id: 889,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `तुम परिंदों से ज़ियादा तो नहीं हो आज़ाद
 शाम होने को है अब घर की तरफ़ लौट चलो`,
@@ -5158,7 +5156,7 @@ const hindiShayari = [
   {
     id: 890,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `रात को जीत तो पाता नहीं लेकिन ये चराग़
 कम से कम रात का नुक़सान बहुत करता है`,
@@ -5167,7 +5165,7 @@ const hindiShayari = [
   {
     id: 891,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `होशियारी दिल-ए-नादान बहुत करता है
 रंज कम सहता है एलान बहुत करता है`,
@@ -5185,7 +5183,7 @@ const hindiShayari = [
   {
     id: 893,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `सर अगर सर है तो नेज़ों से शिकायत कैसी
 दिल अगर दिल है तो दरिया से बड़ा होना है`,
@@ -5194,7 +5192,7 @@ const hindiShayari = [
   {
     id: 894,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `जो कुछ हुआ वो कैसे हुआ जानता हूँ मैं
 जो कुछ नहीं हुआ वो बता क्यूँ नहीं हुआ`,
@@ -5203,7 +5201,7 @@ const hindiShayari = [
   {
     id: 895,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `रेत पर थक के गिरा हूँ तो हवा पूछती है
 आप इस दश्त में क्यूँ आए थे वहशत के बग़ैर`,
@@ -5230,7 +5228,7 @@ const hindiShayari = [
   {
     id: 898,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `सरहदें अच्छी कि सरहद पे न रुकना अच्छा
 सोचिए आदमी अच्छा कि परिंदा अच्छा`,
@@ -5248,7 +5246,7 @@ const hindiShayari = [
   {
     id: 900,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `मैं चाहता हूँ यहीं सारे फ़ैसले हो जाएँ
 कि इस के ब'अद ये दुनिया कहाँ से लाऊँगा मैं`,
@@ -5293,7 +5291,7 @@ const hindiShayari = [
   {
     id: 905,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हमारे दिल को इक आज़ार है ऐसा नहीं लगता
 कि हम दफ़्तर भी जाते हैं ग़ज़ल-ख़्वानी भी करते हैं`,
@@ -5311,7 +5309,7 @@ const hindiShayari = [
   {
     id: 907,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `उठो ये मंज़र-ए-शब-ताब देखने के लिए
 कि नींद शर्त नहीं ख़्वाब देखने के लिए`,
@@ -5329,7 +5327,7 @@ const hindiShayari = [
   {
     id: 909,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `तुम परिंदों से ज़ियादा तो नहीं हो आज़ाद
 शाम होने को है अब घर की तरफ़ लौट चलो`,
@@ -5338,7 +5336,7 @@ const hindiShayari = [
   {
     id: 910,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `रात को जीत तो पाता नहीं लेकिन ये चराग़
 कम से कम रात का नुक़सान बहुत करता है`,
@@ -5347,7 +5345,7 @@ const hindiShayari = [
   {
     id: 911,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `होशियारी दिल-ए-नादान बहुत करता है
 रंज कम सहता है एलान बहुत करता है`,
@@ -5365,7 +5363,7 @@ const hindiShayari = [
   {
     id: 913,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `सर अगर सर है तो नेज़ों से शिकायत कैसी
 दिल अगर दिल है तो दरिया से बड़ा होना है`,
@@ -5374,7 +5372,7 @@ const hindiShayari = [
   {
     id: 914,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `जो कुछ हुआ वो कैसे हुआ जानता हूँ मैं
 जो कुछ नहीं हुआ वो बता क्यूँ नहीं हुआ`,
@@ -5383,7 +5381,7 @@ const hindiShayari = [
   {
     id: 915,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `रेत पर थक के गिरा हूँ तो हवा पूछती है
 आप इस दश्त में क्यूँ आए थे वहशत के बग़ैर`,
@@ -5410,7 +5408,7 @@ const hindiShayari = [
   {
     id: 918,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `सरहदें अच्छी कि सरहद पे न रुकना अच्छा
 सोचिए आदमी अच्छा कि परिंदा अच्छा`,
@@ -5428,7 +5426,7 @@ const hindiShayari = [
   {
     id: 920,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `मैं चाहता हूँ यहीं सारे फ़ैसले हो जाएँ
 कि इस के ब'अद ये दुनिया कहाँ से लाऊँगा मैं`,
@@ -5473,7 +5471,7 @@ const hindiShayari = [
   {
     id: 925,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हमारे दिल को इक आज़ार है ऐसा नहीं लगता
 कि हम दफ़्तर भी जाते हैं ग़ज़ल-ख़्वानी भी करते हैं`,
@@ -5491,7 +5489,7 @@ const hindiShayari = [
   {
     id: 927,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `उठो ये मंज़र-ए-शब-ताब देखने के लिए
 कि नींद शर्त नहीं ख़्वाब देखने के लिए`,
@@ -5509,7 +5507,7 @@ const hindiShayari = [
   {
     id: 929,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `तुम परिंदों से ज़ियादा तो नहीं हो आज़ाद
 शाम होने को है अब घर की तरफ़ लौट चलो`,
@@ -5518,7 +5516,7 @@ const hindiShayari = [
   {
     id: 930,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `रात को जीत तो पाता नहीं लेकिन ये चराग़
 कम से कम रात का नुक़सान बहुत करता है`,
@@ -5527,7 +5525,7 @@ const hindiShayari = [
   {
     id: 931,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `होशियारी दिल-ए-नादान बहुत करता है
 रंज कम सहता है एलान बहुत करता है`,
@@ -5545,7 +5543,7 @@ const hindiShayari = [
   {
     id: 933,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `सर अगर सर है तो नेज़ों से शिकायत कैसी
 दिल अगर दिल है तो दरिया से बड़ा होना है`,
@@ -5554,7 +5552,7 @@ const hindiShayari = [
   {
     id: 934,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `जो कुछ हुआ वो कैसे हुआ जानता हूँ मैं
 जो कुछ नहीं हुआ वो बता क्यूँ नहीं हुआ`,
@@ -5563,7 +5561,7 @@ const hindiShayari = [
   {
     id: 935,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `रेत पर थक के गिरा हूँ तो हवा पूछती है
 आप इस दश्त में क्यूँ आए थे वहशत के बग़ैर`,
@@ -5590,7 +5588,7 @@ const hindiShayari = [
   {
     id: 938,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `सरहदें अच्छी कि सरहद पे न रुकना अच्छा
 सोचिए आदमी अच्छा कि परिंदा अच्छा`,
@@ -5608,7 +5606,7 @@ const hindiShayari = [
   {
     id: 940,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `मैं चाहता हूँ यहीं सारे फ़ैसले हो जाएँ
 कि इस के ब'अद ये दुनिया कहाँ से लाऊँगा मैं`,
@@ -5653,7 +5651,7 @@ const hindiShayari = [
   {
     id: 945,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हमारे दिल को इक आज़ार है ऐसा नहीं लगता
 कि हम दफ़्तर भी जाते हैं ग़ज़ल-ख़्वानी भी करते हैं`,
@@ -5689,7 +5687,7 @@ const hindiShayari = [
   {
     id: 949,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अमजद इस्लाम अमजद',
     text: `क्या हो जाता है इन हँसते जीते जागते लोगों को
 बैठे बैठे क्यूँ ये ख़ुद से बातें करने लगते हैं`,
@@ -5707,7 +5705,7 @@ const hindiShayari = [
   {
     id: 951,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अमजद इस्लाम अमजद',
     text: `लिखा था एक तख़्ती पर कोई भी फूल मत तोड़े मगर आँधी तो अन-पढ़ थी
 सो जब वो बाग़ से गुज़री कोई उखड़ा कोई टूटा ख़िज़ाँ के आख़िरी दिन थे`,
@@ -5761,7 +5759,7 @@ const hindiShayari = [
   {
     id: 957,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अमजद इस्लाम अमजद',
     text: `हादिसा भी होने में वक़्त कुछ तो लेता है
 बख़्त के बिगड़ने में देर कुछ तो लगती है`,
@@ -5779,7 +5777,7 @@ const hindiShayari = [
   {
     id: 959,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अमजद इस्लाम अमजद',
     text: `बे-समर पेड़ों को चूमेंगे सबा के सब्ज़ लब
 देख लेना ये ख़िज़ाँ बे-दस्त-ओ-पा रह जाएगी`,
@@ -5806,7 +5804,7 @@ const hindiShayari = [
   {
     id: 962,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अमजद इस्लाम अमजद',
     text: `ये जो साए से भटकते हैं हमारे इर्द-गिर्द
 छू के उन को देखिए तो वाहिमा कोई नहीं`,
@@ -5833,7 +5831,7 @@ const hindiShayari = [
   {
     id: 965,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अमजद इस्लाम अमजद',
     text: `फ़ज़ा में तैरते रहते हैं नक़्श से क्या क्या
 मुझे तलाश न करती हों ये बलाएँ कहीं`,
@@ -5869,7 +5867,7 @@ const hindiShayari = [
   {
     id: 969,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अमजद इस्लाम अमजद',
     text: `क्या हो जाता है इन हँसते जीते जागते लोगों को
 बैठे बैठे क्यूँ ये ख़ुद से बातें करने लगते हैं`,
@@ -5887,7 +5885,7 @@ const hindiShayari = [
   {
     id: 971,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अमजद इस्लाम अमजद',
     text: `लिखा था एक तख़्ती पर कोई भी फूल मत तोड़े मगर आँधी तो अन-पढ़ थी
 सो जब वो बाग़ से गुज़री कोई उखड़ा कोई टूटा ख़िज़ाँ के आख़िरी दिन थे`,
@@ -5941,7 +5939,7 @@ const hindiShayari = [
   {
     id: 977,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अमजद इस्लाम अमजद',
     text: `हादिसा भी होने में वक़्त कुछ तो लेता है
 बख़्त के बिगड़ने में देर कुछ तो लगती है`,
@@ -5959,7 +5957,7 @@ const hindiShayari = [
   {
     id: 979,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अमजद इस्लाम अमजद',
     text: `बे-समर पेड़ों को चूमेंगे सबा के सब्ज़ लब
 देख लेना ये ख़िज़ाँ बे-दस्त-ओ-पा रह जाएगी`,
@@ -5986,7 +5984,7 @@ const hindiShayari = [
   {
     id: 982,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अमजद इस्लाम अमजद',
     text: `ये जो साए से भटकते हैं हमारे इर्द-गिर्द
 छू के उन को देखिए तो वाहिमा कोई नहीं`,
@@ -6013,7 +6011,7 @@ const hindiShayari = [
   {
     id: 985,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'अमजद इस्लाम अमजद',
     text: `फ़ज़ा में तैरते रहते हैं नक़्श से क्या क्या
 मुझे तलाश न करती हों ये बलाएँ कहीं`,
@@ -6049,7 +6047,7 @@ const hindiShayari = [
   {
     id: 989,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `जुस्तुजू जिस की थी उस को तो न पाया हम ने
 इस बहाने से मगर देख ली दुनिया हम ने`,
@@ -6067,7 +6065,7 @@ const hindiShayari = [
   {
     id: 991,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `क्या कोई नई बात नज़र आती है हम में
 आईना हमें देख के हैरान सा क्यूँ है`,
@@ -6085,7 +6083,7 @@ const hindiShayari = [
   {
     id: 993,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `घर की तामीर तसव्वुर ही में हो सकती है
 अपने नक़्शे के मुताबिक़ ये ज़मीं कुछ कम है`,
@@ -6112,7 +6110,7 @@ const hindiShayari = [
   {
     id: 996,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `जम्अ करते रहे जो अपने को ज़र्रा ज़र्रा
 वो ये क्या जानें बिखरने में सुकूँ कितना है`,
@@ -6121,7 +6119,7 @@ const hindiShayari = [
   {
     id: 997,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `उम्र का लम्बा हिस्सा कर के दानाई के नाम
 हम भी अब ये सोच रहे हैं पागल हो जाएँ`,
@@ -6130,7 +6128,7 @@ const hindiShayari = [
   {
     id: 998,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `सभी को ग़म है समुंदर के ख़ुश्क होने का
 कि खेल ख़त्म हुआ कश्तियाँ डुबोने का`,
@@ -6139,7 +6137,7 @@ const hindiShayari = [
   {
     id: 999,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `इक बूँद ज़हर के लिए फैला रहे हो हाथ
 देखो कभी ख़ुद अपने बदन को निचोड़ के`,
@@ -6157,7 +6155,7 @@ const hindiShayari = [
   {
     id: 1001,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `अब रात की दीवार को ढाना है ज़रूरी
 ये काम मगर मुझ से अकेले नहीं होगा`,
@@ -6229,7 +6227,7 @@ const hindiShayari = [
   {
     id: 1009,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `जुस्तुजू जिस की थी उस को तो न पाया हम ने
 इस बहाने से मगर देख ली दुनिया हम ने`,
@@ -6247,7 +6245,7 @@ const hindiShayari = [
   {
     id: 1011,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `क्या कोई नई बात नज़र आती है हम में
 आईना हमें देख के हैरान सा क्यूँ है`,
@@ -6265,7 +6263,7 @@ const hindiShayari = [
   {
     id: 1013,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `घर की तामीर तसव्वुर ही में हो सकती है
 अपने नक़्शे के मुताबिक़ ये ज़मीं कुछ कम है`,
@@ -6292,7 +6290,7 @@ const hindiShayari = [
   {
     id: 1016,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `जम्अ करते रहे जो अपने को ज़र्रा ज़र्रा
 वो ये क्या जानें बिखरने में सुकूँ कितना है`,
@@ -6301,7 +6299,7 @@ const hindiShayari = [
   {
     id: 1017,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `उम्र का लम्बा हिस्सा कर के दानाई के नाम
 हम भी अब ये सोच रहे हैं पागल हो जाएँ`,
@@ -6310,7 +6308,7 @@ const hindiShayari = [
   {
     id: 1018,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `सभी को ग़म है समुंदर के ख़ुश्क होने का
 कि खेल ख़त्म हुआ कश्तियाँ डुबोने का`,
@@ -6319,7 +6317,7 @@ const hindiShayari = [
   {
     id: 1019,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `इक बूँद ज़हर के लिए फैला रहे हो हाथ
 देखो कभी ख़ुद अपने बदन को निचोड़ के`,
@@ -6337,7 +6335,7 @@ const hindiShayari = [
   {
     id: 1021,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'शहरयार',
     text: `अब रात की दीवार को ढाना है ज़रूरी
 ये काम मगर मुझ से अकेले नहीं होगा`,
@@ -6409,7 +6407,7 @@ const hindiShayari = [
   {
     id: 1029,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'फ़िराक़ गोरखपुरी',
     text: `बहुत पहले से उन क़दमों की आहट जान लेते हैं
 तुझे ऐ ज़िंदगी हम दूर से पहचान लेते हैं`,
@@ -6445,7 +6443,7 @@ const hindiShayari = [
   {
     id: 1033,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'फ़िराक़ गोरखपुरी',
     text: `आए थे हँसते खेलते मय-ख़ाने में 'फ़िराक़'
 जब पी चुके शराब तो संजीदा हो गए`,
@@ -6454,7 +6452,7 @@ const hindiShayari = [
   {
     id: 1034,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'फ़िराक़ गोरखपुरी',
     text: `ग़रज़ कि काट दिए ज़िंदगी के दिन ऐ दोस्त
 वो तेरी याद में हों या तुझे भुलाने में`,
@@ -6535,7 +6533,7 @@ const hindiShayari = [
   {
     id: 1043,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'फ़िराक़ गोरखपुरी',
     text: `कौन ये ले रहा है अंगड़ाई
 आसमानों को नींद आती है`,
@@ -6544,7 +6542,7 @@ const hindiShayari = [
   {
     id: 1044,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'फ़िराक़ गोरखपुरी',
     text: `कमी न की तिरे वहशी ने ख़ाक उड़ाने में
 जुनूँ का नाम उछलता रहा ज़माने में`,
@@ -6607,7 +6605,7 @@ const hindiShayari = [
   {
     id: 1051,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `मुझे पसंद नहीं ऐसे कारोबार में हूँ
 ये जब्र है कि मैं ख़ुद अपने इख़्तियार में हूँ`,
@@ -6652,7 +6650,7 @@ const hindiShayari = [
   {
     id: 1056,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `कभी ख़ाक वालों की बातें भी सुन
 कभी आसमानों से नीचे उतर`,
@@ -6661,7 +6659,7 @@ const hindiShayari = [
   {
     id: 1057,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `अल्लाह जाने किस पे अकड़ता था रात दिन
 कुछ भी नहीं था फिर भी बड़ा बद-ज़बान था`,
@@ -6670,7 +6668,7 @@ const hindiShayari = [
   {
     id: 1058,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `हम्माम के आईने में शब डूब रही थी
 सिगरेट से नए दिन का धुआँ फैल रहा था`,
@@ -6688,7 +6686,7 @@ const hindiShayari = [
   {
     id: 1060,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `बिस्मिल के तड़पने की अदाओं में नशा था
 मैं हाथ में तलवार लिए झूम रहा था`,
@@ -6697,7 +6695,7 @@ const hindiShayari = [
   {
     id: 1061,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `हर आँख में थी टूटते लम्हों की तिश्नगी
 हर जिस्म पे था वक़्त का साया पड़ा हुआ`,
@@ -6706,7 +6704,7 @@ const hindiShayari = [
   {
     id: 1062,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `जाने किस को ढूँडने दाख़िल हुआ है जिस्म में
 हड्डियों में रास्ता करता हुआ पीला बुख़ार`,
@@ -6733,7 +6731,7 @@ const hindiShayari = [
   {
     id: 1065,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `फिर कोई वुसअत-ए-आफ़ाक़ पे साया डाले
 फिर किसी आँख के नुक़्ते में उतारा जाऊँ`,
@@ -6796,7 +6794,7 @@ const hindiShayari = [
   {
     id: 1072,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `मुझे पसंद नहीं ऐसे कारोबार में हूँ
 ये जब्र है कि मैं ख़ुद अपने इख़्तियार में हूँ`,
@@ -6841,7 +6839,7 @@ const hindiShayari = [
   {
     id: 1077,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `कभी ख़ाक वालों की बातें भी सुन
 कभी आसमानों से नीचे उतर`,
@@ -6850,7 +6848,7 @@ const hindiShayari = [
   {
     id: 1078,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `अल्लाह जाने किस पे अकड़ता था रात दिन
 कुछ भी नहीं था फिर भी बड़ा बद-ज़बान था`,
@@ -6859,7 +6857,7 @@ const hindiShayari = [
   {
     id: 1079,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `हम्माम के आईने में शब डूब रही थी
 सिगरेट से नए दिन का धुआँ फैल रहा था`,
@@ -6877,7 +6875,7 @@ const hindiShayari = [
   {
     id: 1081,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `बिस्मिल के तड़पने की अदाओं में नशा था
 मैं हाथ में तलवार लिए झूम रहा था`,
@@ -6886,7 +6884,7 @@ const hindiShayari = [
   {
     id: 1082,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `हर आँख में थी टूटते लम्हों की तिश्नगी
 हर जिस्म पे था वक़्त का साया पड़ा हुआ`,
@@ -6895,7 +6893,7 @@ const hindiShayari = [
   {
     id: 1083,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `जाने किस को ढूँडने दाख़िल हुआ है जिस्म में
 हड्डियों में रास्ता करता हुआ पीला बुख़ार`,
@@ -6922,7 +6920,7 @@ const hindiShayari = [
   {
     id: 1086,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `फिर कोई वुसअत-ए-आफ़ाक़ पे साया डाले
 फिर किसी आँख के नुक़्ते में उतारा जाऊँ`,
@@ -6985,7 +6983,7 @@ const hindiShayari = [
   {
     id: 1093,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `मुझे पसंद नहीं ऐसे कारोबार में हूँ
 ये जब्र है कि मैं ख़ुद अपने इख़्तियार में हूँ`,
@@ -7030,7 +7028,7 @@ const hindiShayari = [
   {
     id: 1098,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `कभी ख़ाक वालों की बातें भी सुन
 कभी आसमानों से नीचे उतर`,
@@ -7039,7 +7037,7 @@ const hindiShayari = [
   {
     id: 1099,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `अल्लाह जाने किस पे अकड़ता था रात दिन
 कुछ भी नहीं था फिर भी बड़ा बद-ज़बान था`,
@@ -7048,7 +7046,7 @@ const hindiShayari = [
   {
     id: 1100,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `हम्माम के आईने में शब डूब रही थी
 सिगरेट से नए दिन का धुआँ फैल रहा था`,
@@ -7066,7 +7064,7 @@ const hindiShayari = [
   {
     id: 1102,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `बिस्मिल के तड़पने की अदाओं में नशा था
 मैं हाथ में तलवार लिए झूम रहा था`,
@@ -7075,7 +7073,7 @@ const hindiShayari = [
   {
     id: 1103,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `हर आँख में थी टूटते लम्हों की तिश्नगी
 हर जिस्म पे था वक़्त का साया पड़ा हुआ`,
@@ -7084,7 +7082,7 @@ const hindiShayari = [
   {
     id: 1104,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `जाने किस को ढूँडने दाख़िल हुआ है जिस्म में
 हड्डियों में रास्ता करता हुआ पीला बुख़ार`,
@@ -7111,7 +7109,7 @@ const hindiShayari = [
   {
     id: 1107,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `फिर कोई वुसअत-ए-आफ़ाक़ पे साया डाले
 फिर किसी आँख के नुक़्ते में उतारा जाऊँ`,
@@ -7174,7 +7172,7 @@ const hindiShayari = [
   {
     id: 1114,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `मुझे पसंद नहीं ऐसे कारोबार में हूँ
 ये जब्र है कि मैं ख़ुद अपने इख़्तियार में हूँ`,
@@ -7219,7 +7217,7 @@ const hindiShayari = [
   {
     id: 1119,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `कभी ख़ाक वालों की बातें भी सुन
 कभी आसमानों से नीचे उतर`,
@@ -7228,7 +7226,7 @@ const hindiShayari = [
   {
     id: 1120,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `अल्लाह जाने किस पे अकड़ता था रात दिन
 कुछ भी नहीं था फिर भी बड़ा बद-ज़बान था`,
@@ -7237,7 +7235,7 @@ const hindiShayari = [
   {
     id: 1121,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `हम्माम के आईने में शब डूब रही थी
 सिगरेट से नए दिन का धुआँ फैल रहा था`,
@@ -7255,7 +7253,7 @@ const hindiShayari = [
   {
     id: 1123,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `बिस्मिल के तड़पने की अदाओं में नशा था
 मैं हाथ में तलवार लिए झूम रहा था`,
@@ -7264,7 +7262,7 @@ const hindiShayari = [
   {
     id: 1124,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `हर आँख में थी टूटते लम्हों की तिश्नगी
 हर जिस्म पे था वक़्त का साया पड़ा हुआ`,
@@ -7273,7 +7271,7 @@ const hindiShayari = [
   {
     id: 1125,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `जाने किस को ढूँडने दाख़िल हुआ है जिस्म में
 हड्डियों में रास्ता करता हुआ पीला बुख़ार`,
@@ -7300,7 +7298,7 @@ const hindiShayari = [
   {
     id: 1128,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'आदिल मंसूरी',
     text: `फिर कोई वुसअत-ए-आफ़ाक़ पे साया डाले
 फिर किसी आँख के नुक़्ते में उतारा जाऊँ`,
@@ -7309,7 +7307,7 @@ const hindiShayari = [
   {
     id: 1129,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ज़ेब ग़ौरी',
     text: `ज़ख़्म लगा कर उस का भी कुछ हाथ खुला
 मैं भी धोका खा कर कुछ चालाक हुआ`,
@@ -7318,7 +7316,7 @@ const hindiShayari = [
   {
     id: 1130,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ज़ेब ग़ौरी',
     text: `बड़े अज़ाब में हूँ मुझ को जान भी है अज़ीज़
 सितम को देख के चुप भी रहा नहीं जाता`,
@@ -7363,7 +7361,7 @@ const hindiShayari = [
   {
     id: 1135,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ज़ेब ग़ौरी',
     text: `घसीटते हुए ख़ुद को फिरोगे 'ज़ेब' कहाँ
 चलो कि ख़ाक को दे आएँ ये बदन उस का`,
@@ -7390,7 +7388,7 @@ const hindiShayari = [
   {
     id: 1138,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ज़ेब ग़ौरी',
     text: `मैं तो चाक पे कूज़ा-गर के हाथ की मिट्टी हूँ
 अब ये मिट्टी देख खिलौना कैसे बनती है`,
@@ -7417,7 +7415,7 @@ const hindiShayari = [
   {
     id: 1141,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ज़ेब ग़ौरी',
     text: `उलट रही थीं हवाएँ वरक़ वरक़ उस का
 लिखी गई थी जो मिट्टी पे वो किताब था वो`,
@@ -7498,7 +7496,7 @@ const hindiShayari = [
   {
     id: 1150,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जिगर मुरादाबादी',
     text: `आबाद अगर न दिल हो तो बरबाद कीजिए
 गुलशन न बन सके तो बयाबाँ बनाइए`,
@@ -7678,7 +7676,7 @@ const hindiShayari = [
   {
     id: 1170,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जिगर मुरादाबादी',
     text: `आबाद अगर न दिल हो तो बरबाद कीजिए
 गुलशन न बन सके तो बयाबाँ बनाइए`,
@@ -7858,7 +7856,7 @@ const hindiShayari = [
   {
     id: 1190,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जिगर मुरादाबादी',
     text: `आबाद अगर न दिल हो तो बरबाद कीजिए
 गुलशन न बन सके तो बयाबाँ बनाइए`,
@@ -8038,7 +8036,7 @@ const hindiShayari = [
   {
     id: 1210,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़लील-उर-रहमान आज़मी',
     text: `हज़ार तरह की मय पी हज़ार तरह के ज़हर
 न प्यास ही बुझी अपनी न हौसला निकला`,
@@ -8056,7 +8054,7 @@ const hindiShayari = [
   {
     id: 1212,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़लील-उर-रहमान आज़मी',
     text: `ये तमन्ना नहीं अब दाद-ए-हुनर दे कोई
 आ के मुझ को मिरे होने की ख़बर दे कोई`,
@@ -8065,7 +8063,7 @@ const hindiShayari = [
   {
     id: 1213,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़लील-उर-रहमान आज़मी',
     text: `हम पे जो गुज़री है बस उस को रक़म करते हैं
 आप-बीती कहो या मर्सिया-ख़्वानी कह लो`,
@@ -8101,7 +8099,7 @@ const hindiShayari = [
   {
     id: 1217,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़लील-उर-रहमान आज़मी',
     text: `हंगामा-ए-हयात से जाँ-बर न हो सका
 ये दिल अजीब दिल है कि पत्थर न हो सका`,
@@ -8110,7 +8108,7 @@ const hindiShayari = [
   {
     id: 1218,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़लील-उर-रहमान आज़मी',
     text: `मैं अपने घर को बुलंदी पे चढ़ के क्या देखूँ
 उरूज-ए-फ़न मिरी दहलीज़ पर उतार मुझे`,
@@ -8218,7 +8216,7 @@ const hindiShayari = [
   {
     id: 1230,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़लील-उर-रहमान आज़मी',
     text: `हज़ार तरह की मय पी हज़ार तरह के ज़हर
 न प्यास ही बुझी अपनी न हौसला निकला`,
@@ -8236,7 +8234,7 @@ const hindiShayari = [
   {
     id: 1232,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़लील-उर-रहमान आज़मी',
     text: `ये तमन्ना नहीं अब दाद-ए-हुनर दे कोई
 आ के मुझ को मिरे होने की ख़बर दे कोई`,
@@ -8245,7 +8243,7 @@ const hindiShayari = [
   {
     id: 1233,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़लील-उर-रहमान आज़मी',
     text: `हम पे जो गुज़री है बस उस को रक़म करते हैं
 आप-बीती कहो या मर्सिया-ख़्वानी कह लो`,
@@ -8281,7 +8279,7 @@ const hindiShayari = [
   {
     id: 1237,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़लील-उर-रहमान आज़मी',
     text: `हंगामा-ए-हयात से जाँ-बर न हो सका
 ये दिल अजीब दिल है कि पत्थर न हो सका`,
@@ -8290,7 +8288,7 @@ const hindiShayari = [
   {
     id: 1238,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़लील-उर-रहमान आज़मी',
     text: `मैं अपने घर को बुलंदी पे चढ़ के क्या देखूँ
 उरूज-ए-फ़न मिरी दहलीज़ पर उतार मुझे`,
@@ -8362,7 +8360,7 @@ const hindiShayari = [
   {
     id: 1246,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `रोज़ तारों को नुमाइश में ख़लल पड़ता है
 चाँद पागल है अँधेरे में निकल पड़ता है`,
@@ -8380,7 +8378,7 @@ const hindiShayari = [
   {
     id: 1248,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `रात की धड़कन जब तक जारी रहती है
 सोते नहीं हम ज़िम्मेदारी रहती है`,
@@ -8389,7 +8387,7 @@ const hindiShayari = [
   {
     id: 1249,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `सोए रहते हैं ओढ़ कर ख़ुद को
 अब ज़रूरत नहीं रज़ाई की`,
@@ -8398,7 +8396,7 @@ const hindiShayari = [
   {
     id: 1250,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `सितारो आओ मिरी राह में बिखर जाओ
 ये मेरा हुक्म है हालाँकि कुछ नहीं हूँ मैं`,
@@ -8407,7 +8405,7 @@ const hindiShayari = [
   {
     id: 1251,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `चराग़ों का घराना चल रहा है
 हवा से दोस्ताना चल रहा है`,
@@ -8416,7 +8414,7 @@ const hindiShayari = [
   {
     id: 1252,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `अब इतनी सारी शबों का हिसाब कौन रखे
 बड़े सवाब कमाए गए जवानी में`,
@@ -8425,7 +8423,7 @@ const hindiShayari = [
   {
     id: 1253,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `चाँद सूरज मिरी चौखट पे कई सदियों से
 रोज़ लिक्खे हुए चेहरे पे सवाल आते हैं`,
@@ -8434,7 +8432,7 @@ const hindiShayari = [
   {
     id: 1254,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `जा-नमाज़ों की तरह नूर में उज्लाई सहर
 रात भर जैसे फ़रिश्तों ने इबादत की है`,
@@ -8452,7 +8450,7 @@ const hindiShayari = [
   {
     id: 1256,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `रोज़ तारों को नुमाइश में ख़लल पड़ता है
 चाँद पागल है अँधेरे में निकल पड़ता है`,
@@ -8470,7 +8468,7 @@ const hindiShayari = [
   {
     id: 1258,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `रात की धड़कन जब तक जारी रहती है
 सोते नहीं हम ज़िम्मेदारी रहती है`,
@@ -8479,7 +8477,7 @@ const hindiShayari = [
   {
     id: 1259,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `सोए रहते हैं ओढ़ कर ख़ुद को
 अब ज़रूरत नहीं रज़ाई की`,
@@ -8488,7 +8486,7 @@ const hindiShayari = [
   {
     id: 1260,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `सितारो आओ मिरी राह में बिखर जाओ
 ये मेरा हुक्म है हालाँकि कुछ नहीं हूँ मैं`,
@@ -8497,7 +8495,7 @@ const hindiShayari = [
   {
     id: 1261,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `चराग़ों का घराना चल रहा है
 हवा से दोस्ताना चल रहा है`,
@@ -8506,7 +8504,7 @@ const hindiShayari = [
   {
     id: 1262,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `अब इतनी सारी शबों का हिसाब कौन रखे
 बड़े सवाब कमाए गए जवानी में`,
@@ -8515,7 +8513,7 @@ const hindiShayari = [
   {
     id: 1263,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `चाँद सूरज मिरी चौखट पे कई सदियों से
 रोज़ लिक्खे हुए चेहरे पे सवाल आते हैं`,
@@ -8524,7 +8522,7 @@ const hindiShayari = [
   {
     id: 1264,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'राहत इंदौरी',
     text: `जा-नमाज़ों की तरह नूर में उज्लाई सहर
 रात भर जैसे फ़रिश्तों ने इबादत की है`,
@@ -8542,7 +8540,7 @@ const hindiShayari = [
   {
     id: 1266,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `उजाले अपनी यादों के हमारे साथ रहने दो
 न जाने किस गली में ज़िंदगी की शाम हो जाए`,
@@ -8551,7 +8549,7 @@ const hindiShayari = [
   {
     id: 1267,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `हम भी दरिया हैं हमें अपना हुनर मालूम है
 जिस तरफ़ भी चल पड़ेंगे रास्ता हो जाएगा`,
@@ -8569,7 +8567,7 @@ const hindiShayari = [
   {
     id: 1269,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `यहाँ लिबास की क़ीमत है आदमी की नहीं
 मुझे गिलास बड़े दे शराब कम कर दे`,
@@ -8596,7 +8594,7 @@ const hindiShayari = [
   {
     id: 1272,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `अभी राह में कई मोड़ हैं कोई आएगा कोई जाएगा
 तुम्हें जिस ने दिल से भुला दिया उसे भूलने की दुआ करो`,
@@ -8614,7 +8612,7 @@ const hindiShayari = [
   {
     id: 1274,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `अगर फ़ुर्सत मिले पानी की तहरीरों को पढ़ लेना
 हर इक दरिया हज़ारों साल का अफ़्साना लिखता है`,
@@ -8659,7 +8657,7 @@ const hindiShayari = [
   {
     id: 1279,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `काग़ज़ में दब के मर गए कीड़े किताब के
 दीवाना बे-पढ़े-लिखे मशहूर हो गया`,
@@ -8668,7 +8666,7 @@ const hindiShayari = [
   {
     id: 1280,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `वो इत्र-दान सा लहजा मिरे बुज़ुर्गों का
 रची-बसी हुई उर्दू ज़बान की ख़ुश्बू`,
@@ -8677,7 +8675,7 @@ const hindiShayari = [
   {
     id: 1281,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `सब लोग अपने अपने ख़ुदाओं को लाए थे
 इक हम ही ऐसे थे कि हमारा ख़ुदा न था`,
@@ -8704,7 +8702,7 @@ const hindiShayari = [
   {
     id: 1284,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `उजाले अपनी यादों के हमारे साथ रहने दो
 न जाने किस गली में ज़िंदगी की शाम हो जाए`,
@@ -8713,7 +8711,7 @@ const hindiShayari = [
   {
     id: 1285,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `हम भी दरिया हैं हमें अपना हुनर मालूम है
 जिस तरफ़ भी चल पड़ेंगे रास्ता हो जाएगा`,
@@ -8731,7 +8729,7 @@ const hindiShayari = [
   {
     id: 1287,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `यहाँ लिबास की क़ीमत है आदमी की नहीं
 मुझे गिलास बड़े दे शराब कम कर दे`,
@@ -8758,7 +8756,7 @@ const hindiShayari = [
   {
     id: 1290,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `अभी राह में कई मोड़ हैं कोई आएगा कोई जाएगा
 तुम्हें जिस ने दिल से भुला दिया उसे भूलने की दुआ करो`,
@@ -8776,7 +8774,7 @@ const hindiShayari = [
   {
     id: 1292,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `अगर फ़ुर्सत मिले पानी की तहरीरों को पढ़ लेना
 हर इक दरिया हज़ारों साल का अफ़्साना लिखता है`,
@@ -8821,7 +8819,7 @@ const hindiShayari = [
   {
     id: 1297,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `काग़ज़ में दब के मर गए कीड़े किताब के
 दीवाना बे-पढ़े-लिखे मशहूर हो गया`,
@@ -8830,7 +8828,7 @@ const hindiShayari = [
   {
     id: 1298,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `वो इत्र-दान सा लहजा मिरे बुज़ुर्गों का
 रची-बसी हुई उर्दू ज़बान की ख़ुश्बू`,
@@ -8839,7 +8837,7 @@ const hindiShayari = [
   {
     id: 1299,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'बशीर बद्र',
     text: `सब लोग अपने अपने ख़ुदाओं को लाए थे
 इक हम ही ऐसे थे कि हमारा ख़ुदा न था`,
@@ -8893,7 +8891,7 @@ const hindiShayari = [
   {
     id: 1305,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हम सब आईना-दर-आईना-दर-आईना हैं
 क्या ख़बर कौन कहाँ किस की तरफ़ देखता है`,
@@ -8911,7 +8909,7 @@ const hindiShayari = [
   {
     id: 1307,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `उड़े तो फिर न मिलेंगे रफ़ाक़तों के परिंद
 शिकायतों से भरी टहनियाँ न छू लेना`,
@@ -8929,7 +8927,7 @@ const hindiShayari = [
   {
     id: 1309,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हम भी पत्थर तुम भी पत्थर सब पत्थर टकराओ
 हम भी टूटें तुम भी टूटो सब टूटें आमीन`,
@@ -8938,7 +8936,7 @@ const hindiShayari = [
   {
     id: 1310,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `ये हम ने भी सुना है आलम-ए-असबाब है दुनिया
 यहाँ फिर भी बहुत कुछ बे-सबब होता ही रहता है`,
@@ -9010,7 +9008,7 @@ const hindiShayari = [
   {
     id: 1318,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हम सब आईना-दर-आईना-दर-आईना हैं
 क्या ख़बर कौन कहाँ किस की तरफ़ देखता है`,
@@ -9028,7 +9026,7 @@ const hindiShayari = [
   {
     id: 1320,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `उड़े तो फिर न मिलेंगे रफ़ाक़तों के परिंद
 शिकायतों से भरी टहनियाँ न छू लेना`,
@@ -9046,7 +9044,7 @@ const hindiShayari = [
   {
     id: 1322,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हम भी पत्थर तुम भी पत्थर सब पत्थर टकराओ
 हम भी टूटें तुम भी टूटो सब टूटें आमीन`,
@@ -9055,7 +9053,7 @@ const hindiShayari = [
   {
     id: 1323,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `ये हम ने भी सुना है आलम-ए-असबाब है दुनिया
 यहाँ फिर भी बहुत कुछ बे-सबब होता ही रहता है`,
@@ -9127,7 +9125,7 @@ const hindiShayari = [
   {
     id: 1331,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हम सब आईना-दर-आईना-दर-आईना हैं
 क्या ख़बर कौन कहाँ किस की तरफ़ देखता है`,
@@ -9145,7 +9143,7 @@ const hindiShayari = [
   {
     id: 1333,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `उड़े तो फिर न मिलेंगे रफ़ाक़तों के परिंद
 शिकायतों से भरी टहनियाँ न छू लेना`,
@@ -9163,7 +9161,7 @@ const hindiShayari = [
   {
     id: 1335,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हम भी पत्थर तुम भी पत्थर सब पत्थर टकराओ
 हम भी टूटें तुम भी टूटो सब टूटें आमीन`,
@@ -9172,7 +9170,7 @@ const hindiShayari = [
   {
     id: 1336,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `ये हम ने भी सुना है आलम-ए-असबाब है दुनिया
 यहाँ फिर भी बहुत कुछ बे-सबब होता ही रहता है`,
@@ -9244,7 +9242,7 @@ const hindiShayari = [
   {
     id: 1344,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हम सब आईना-दर-आईना-दर-आईना हैं
 क्या ख़बर कौन कहाँ किस की तरफ़ देखता है`,
@@ -9262,7 +9260,7 @@ const hindiShayari = [
   {
     id: 1346,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `उड़े तो फिर न मिलेंगे रफ़ाक़तों के परिंद
 शिकायतों से भरी टहनियाँ न छू लेना`,
@@ -9280,7 +9278,7 @@ const hindiShayari = [
   {
     id: 1348,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हम भी पत्थर तुम भी पत्थर सब पत्थर टकराओ
 हम भी टूटें तुम भी टूटो सब टूटें आमीन`,
@@ -9289,7 +9287,7 @@ const hindiShayari = [
   {
     id: 1349,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `ये हम ने भी सुना है आलम-ए-असबाब है दुनिया
 यहाँ फिर भी बहुत कुछ बे-सबब होता ही रहता है`,
@@ -9361,7 +9359,7 @@ const hindiShayari = [
   {
     id: 1357,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हम सब आईना-दर-आईना-दर-आईना हैं
 क्या ख़बर कौन कहाँ किस की तरफ़ देखता है`,
@@ -9379,7 +9377,7 @@ const hindiShayari = [
   {
     id: 1359,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `उड़े तो फिर न मिलेंगे रफ़ाक़तों के परिंद
 शिकायतों से भरी टहनियाँ न छू लेना`,
@@ -9397,7 +9395,7 @@ const hindiShayari = [
   {
     id: 1361,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हम भी पत्थर तुम भी पत्थर सब पत्थर टकराओ
 हम भी टूटें तुम भी टूटो सब टूटें आमीन`,
@@ -9406,7 +9404,7 @@ const hindiShayari = [
   {
     id: 1362,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `ये हम ने भी सुना है आलम-ए-असबाब है दुनिया
 यहाँ फिर भी बहुत कुछ बे-सबब होता ही रहता है`,
@@ -9478,7 +9476,7 @@ const hindiShayari = [
   {
     id: 1370,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हम सब आईना-दर-आईना-दर-आईना हैं
 क्या ख़बर कौन कहाँ किस की तरफ़ देखता है`,
@@ -9496,7 +9494,7 @@ const hindiShayari = [
   {
     id: 1372,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `उड़े तो फिर न मिलेंगे रफ़ाक़तों के परिंद
 शिकायतों से भरी टहनियाँ न छू लेना`,
@@ -9514,7 +9512,7 @@ const hindiShayari = [
   {
     id: 1374,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हम भी पत्थर तुम भी पत्थर सब पत्थर टकराओ
 हम भी टूटें तुम भी टूटो सब टूटें आमीन`,
@@ -9523,7 +9521,7 @@ const hindiShayari = [
   {
     id: 1375,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `ये हम ने भी सुना है आलम-ए-असबाब है दुनिया
 यहाँ फिर भी बहुत कुछ बे-सबब होता ही रहता है`,
@@ -9595,7 +9593,7 @@ const hindiShayari = [
   {
     id: 1383,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हम सब आईना-दर-आईना-दर-आईना हैं
 क्या ख़बर कौन कहाँ किस की तरफ़ देखता है`,
@@ -9613,7 +9611,7 @@ const hindiShayari = [
   {
     id: 1385,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `उड़े तो फिर न मिलेंगे रफ़ाक़तों के परिंद
 शिकायतों से भरी टहनियाँ न छू लेना`,
@@ -9631,7 +9629,7 @@ const hindiShayari = [
   {
     id: 1387,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `हम भी पत्थर तुम भी पत्थर सब पत्थर टकराओ
 हम भी टूटें तुम भी टूटो सब टूटें आमीन`,
@@ -9640,7 +9638,7 @@ const hindiShayari = [
   {
     id: 1388,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'इरफ़ान सिद्दीक़ी',
     text: `ये हम ने भी सुना है आलम-ए-असबाब है दुनिया
 यहाँ फिर भी बहुत कुछ बे-सबब होता ही रहता है`,
@@ -9685,7 +9683,7 @@ const hindiShayari = [
   {
     id: 1393,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `ज़िंदगी शायद इसी का नाम है
 दूरियाँ मजबूरियाँ तन्हाइयाँ`,
@@ -9712,7 +9710,7 @@ const hindiShayari = [
   {
     id: 1396,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `आग का क्या है पल दो पल में लगती है
 बुझते बुझते एक ज़माना लगता है`,
@@ -9721,7 +9719,7 @@ const hindiShayari = [
   {
     id: 1397,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `साया है कम खजूर के ऊँचे दरख़्त का
 उम्मीद बाँधिए न बड़े आदमी के साथ`,
@@ -9730,7 +9728,7 @@ const hindiShayari = [
   {
     id: 1398,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `माँ की आग़ोश में कल मौत की आग़ोश में आज
 हम को दुनिया में ये दो वक़्त सुहाने से मिले`,
@@ -9748,7 +9746,7 @@ const hindiShayari = [
   {
     id: 1400,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `गुल से लिपटी हुई तितली को गिरा कर देखो
 आँधियो तुम ने दरख़्तों को गिराया होगा`,
@@ -9766,7 +9764,7 @@ const hindiShayari = [
   {
     id: 1402,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `जनाब-ए-'कैफ़' ये दिल्ली है 'मीर' ओ 'ग़ालिब' की
 यहाँ किसी की तरफ़-दारियाँ नहीं चलतीं`,
@@ -9784,7 +9782,7 @@ const hindiShayari = [
   {
     id: 1404,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `वो दिन भी हाए क्या दिन थे जब अपना भी तअल्लुक़ था
 दशहरे से दिवाली से बसंतों से बहारों से`,
@@ -9802,7 +9800,7 @@ const hindiShayari = [
   {
     id: 1406,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `जिस दिन मिरी जबीं किसी दहलीज़ पर झुके
 उस दिन ख़ुदा शिगाफ़ मिरे सर में डाल दे`,
@@ -9838,7 +9836,7 @@ const hindiShayari = [
   {
     id: 1410,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `चार जानिब देख कर सच बोलिए
 आदमी फिरते हैं सरकारी बहुत`,
@@ -9865,7 +9863,7 @@ const hindiShayari = [
   {
     id: 1413,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `ज़िंदगी शायद इसी का नाम है
 दूरियाँ मजबूरियाँ तन्हाइयाँ`,
@@ -9892,7 +9890,7 @@ const hindiShayari = [
   {
     id: 1416,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `आग का क्या है पल दो पल में लगती है
 बुझते बुझते एक ज़माना लगता है`,
@@ -9901,7 +9899,7 @@ const hindiShayari = [
   {
     id: 1417,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `साया है कम खजूर के ऊँचे दरख़्त का
 उम्मीद बाँधिए न बड़े आदमी के साथ`,
@@ -9910,7 +9908,7 @@ const hindiShayari = [
   {
     id: 1418,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `माँ की आग़ोश में कल मौत की आग़ोश में आज
 हम को दुनिया में ये दो वक़्त सुहाने से मिले`,
@@ -9928,7 +9926,7 @@ const hindiShayari = [
   {
     id: 1420,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `गुल से लिपटी हुई तितली को गिरा कर देखो
 आँधियो तुम ने दरख़्तों को गिराया होगा`,
@@ -9946,7 +9944,7 @@ const hindiShayari = [
   {
     id: 1422,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `जनाब-ए-'कैफ़' ये दिल्ली है 'मीर' ओ 'ग़ालिब' की
 यहाँ किसी की तरफ़-दारियाँ नहीं चलतीं`,
@@ -9964,7 +9962,7 @@ const hindiShayari = [
   {
     id: 1424,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `वो दिन भी हाए क्या दिन थे जब अपना भी तअल्लुक़ था
 दशहरे से दिवाली से बसंतों से बहारों से`,
@@ -9982,7 +9980,7 @@ const hindiShayari = [
   {
     id: 1426,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `जिस दिन मिरी जबीं किसी दहलीज़ पर झुके
 उस दिन ख़ुदा शिगाफ़ मिरे सर में डाल दे`,
@@ -10018,7 +10016,7 @@ const hindiShayari = [
   {
     id: 1430,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `चार जानिब देख कर सच बोलिए
 आदमी फिरते हैं सरकारी बहुत`,
@@ -10045,7 +10043,7 @@ const hindiShayari = [
   {
     id: 1433,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `ज़िंदगी शायद इसी का नाम है
 दूरियाँ मजबूरियाँ तन्हाइयाँ`,
@@ -10072,7 +10070,7 @@ const hindiShayari = [
   {
     id: 1436,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `आग का क्या है पल दो पल में लगती है
 बुझते बुझते एक ज़माना लगता है`,
@@ -10081,7 +10079,7 @@ const hindiShayari = [
   {
     id: 1437,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `साया है कम खजूर के ऊँचे दरख़्त का
 उम्मीद बाँधिए न बड़े आदमी के साथ`,
@@ -10090,7 +10088,7 @@ const hindiShayari = [
   {
     id: 1438,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `माँ की आग़ोश में कल मौत की आग़ोश में आज
 हम को दुनिया में ये दो वक़्त सुहाने से मिले`,
@@ -10108,7 +10106,7 @@ const hindiShayari = [
   {
     id: 1440,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `गुल से लिपटी हुई तितली को गिरा कर देखो
 आँधियो तुम ने दरख़्तों को गिराया होगा`,
@@ -10126,7 +10124,7 @@ const hindiShayari = [
   {
     id: 1442,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `जनाब-ए-'कैफ़' ये दिल्ली है 'मीर' ओ 'ग़ालिब' की
 यहाँ किसी की तरफ़-दारियाँ नहीं चलतीं`,
@@ -10144,7 +10142,7 @@ const hindiShayari = [
   {
     id: 1444,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `वो दिन भी हाए क्या दिन थे जब अपना भी तअल्लुक़ था
 दशहरे से दिवाली से बसंतों से बहारों से`,
@@ -10162,7 +10160,7 @@ const hindiShayari = [
   {
     id: 1446,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `जिस दिन मिरी जबीं किसी दहलीज़ पर झुके
 उस दिन ख़ुदा शिगाफ़ मिरे सर में डाल दे`,
@@ -10198,7 +10196,7 @@ const hindiShayari = [
   {
     id: 1450,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ भोपाली',
     text: `चार जानिब देख कर सच बोलिए
 आदमी फिरते हैं सरकारी बहुत`,
@@ -10297,7 +10295,7 @@ const hindiShayari = [
   {
     id: 1461,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `चराग़ों के बदले मकाँ जल रहे हैं
 नया है ज़माना नई रौशनी है`,
@@ -10342,7 +10340,7 @@ const hindiShayari = [
   {
     id: 1466,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `दुश्मनों से पशेमान होना पड़ा है
 दोस्तों का ख़ुलूस आज़माने के बाद`,
@@ -10360,7 +10358,7 @@ const hindiShayari = [
   {
     id: 1468,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `हम भी कर लें जो रौशनी घर में
 फिर अंधेरे कहाँ क़याम करें`,
@@ -10369,7 +10367,7 @@ const hindiShayari = [
   {
     id: 1469,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `उम्र भर चल के भी पाई नहीं मंज़िल हम ने
 कुछ समझ में नहीं आता ये सफ़र कैसा है`,
@@ -10378,7 +10376,7 @@ const hindiShayari = [
   {
     id: 1470,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `जलते दियों में जलते घरों जैसी ज़ौ कहाँ
 सरकार रौशनी का मज़ा हम से पूछिए`,
@@ -10387,7 +10385,7 @@ const hindiShayari = [
   {
     id: 1471,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `हाल-ए-ग़म कह के ग़म बढ़ा बैठे
 तीर मारे थे तीर खा बैठे`,
@@ -10477,7 +10475,7 @@ const hindiShayari = [
   {
     id: 1481,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `चराग़ों के बदले मकाँ जल रहे हैं
 नया है ज़माना नई रौशनी है`,
@@ -10522,7 +10520,7 @@ const hindiShayari = [
   {
     id: 1486,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `दुश्मनों से पशेमान होना पड़ा है
 दोस्तों का ख़ुलूस आज़माने के बाद`,
@@ -10540,7 +10538,7 @@ const hindiShayari = [
   {
     id: 1488,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `हम भी कर लें जो रौशनी घर में
 फिर अंधेरे कहाँ क़याम करें`,
@@ -10549,7 +10547,7 @@ const hindiShayari = [
   {
     id: 1489,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `उम्र भर चल के भी पाई नहीं मंज़िल हम ने
 कुछ समझ में नहीं आता ये सफ़र कैसा है`,
@@ -10558,7 +10556,7 @@ const hindiShayari = [
   {
     id: 1490,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `जलते दियों में जलते घरों जैसी ज़ौ कहाँ
 सरकार रौशनी का मज़ा हम से पूछिए`,
@@ -10567,7 +10565,7 @@ const hindiShayari = [
   {
     id: 1491,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `हाल-ए-ग़म कह के ग़म बढ़ा बैठे
 तीर मारे थे तीर खा बैठे`,
@@ -10657,7 +10655,7 @@ const hindiShayari = [
   {
     id: 1501,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `चराग़ों के बदले मकाँ जल रहे हैं
 नया है ज़माना नई रौशनी है`,
@@ -10702,7 +10700,7 @@ const hindiShayari = [
   {
     id: 1506,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `दुश्मनों से पशेमान होना पड़ा है
 दोस्तों का ख़ुलूस आज़माने के बाद`,
@@ -10720,7 +10718,7 @@ const hindiShayari = [
   {
     id: 1508,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `हम भी कर लें जो रौशनी घर में
 फिर अंधेरे कहाँ क़याम करें`,
@@ -10729,7 +10727,7 @@ const hindiShayari = [
   {
     id: 1509,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `उम्र भर चल के भी पाई नहीं मंज़िल हम ने
 कुछ समझ में नहीं आता ये सफ़र कैसा है`,
@@ -10738,7 +10736,7 @@ const hindiShayari = [
   {
     id: 1510,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `जलते दियों में जलते घरों जैसी ज़ौ कहाँ
 सरकार रौशनी का मज़ा हम से पूछिए`,
@@ -10747,7 +10745,7 @@ const hindiShayari = [
   {
     id: 1511,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `हाल-ए-ग़म कह के ग़म बढ़ा बैठे
 तीर मारे थे तीर खा बैठे`,
@@ -10837,7 +10835,7 @@ const hindiShayari = [
   {
     id: 1521,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `चराग़ों के बदले मकाँ जल रहे हैं
 नया है ज़माना नई रौशनी है`,
@@ -10882,7 +10880,7 @@ const hindiShayari = [
   {
     id: 1526,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `दुश्मनों से पशेमान होना पड़ा है
 दोस्तों का ख़ुलूस आज़माने के बाद`,
@@ -10900,7 +10898,7 @@ const hindiShayari = [
   {
     id: 1528,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `हम भी कर लें जो रौशनी घर में
 फिर अंधेरे कहाँ क़याम करें`,
@@ -10909,7 +10907,7 @@ const hindiShayari = [
   {
     id: 1529,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `उम्र भर चल के भी पाई नहीं मंज़िल हम ने
 कुछ समझ में नहीं आता ये सफ़र कैसा है`,
@@ -10918,7 +10916,7 @@ const hindiShayari = [
   {
     id: 1530,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `जलते दियों में जलते घरों जैसी ज़ौ कहाँ
 सरकार रौशनी का मज़ा हम से पूछिए`,
@@ -10927,7 +10925,7 @@ const hindiShayari = [
   {
     id: 1531,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `हाल-ए-ग़म कह के ग़म बढ़ा बैठे
 तीर मारे थे तीर खा बैठे`,
@@ -11017,7 +11015,7 @@ const hindiShayari = [
   {
     id: 1541,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `चराग़ों के बदले मकाँ जल रहे हैं
 नया है ज़माना नई रौशनी है`,
@@ -11062,7 +11060,7 @@ const hindiShayari = [
   {
     id: 1546,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `दुश्मनों से पशेमान होना पड़ा है
 दोस्तों का ख़ुलूस आज़माने के बाद`,
@@ -11080,7 +11078,7 @@ const hindiShayari = [
   {
     id: 1548,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `हम भी कर लें जो रौशनी घर में
 फिर अंधेरे कहाँ क़याम करें`,
@@ -11089,7 +11087,7 @@ const hindiShayari = [
   {
     id: 1549,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `उम्र भर चल के भी पाई नहीं मंज़िल हम ने
 कुछ समझ में नहीं आता ये सफ़र कैसा है`,
@@ -11098,7 +11096,7 @@ const hindiShayari = [
   {
     id: 1550,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `जलते दियों में जलते घरों जैसी ज़ौ कहाँ
 सरकार रौशनी का मज़ा हम से पूछिए`,
@@ -11107,7 +11105,7 @@ const hindiShayari = [
   {
     id: 1551,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'ख़ुमार बाराबंकवी',
     text: `हाल-ए-ग़म कह के ग़म बढ़ा बैठे
 तीर मारे थे तीर खा बैठे`,
@@ -11125,7 +11123,7 @@ const hindiShayari = [
   {
     id: 1553,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ले दे के अपने पास फ़क़त इक नज़र तो है
 क्यूँ देखें ज़िंदगी को किसी की नज़र से हम`,
@@ -11134,7 +11132,7 @@ const hindiShayari = [
   {
     id: 1554,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ग़म और ख़ुशी में फ़र्क़ न महसूस हो जहाँ
 मैं दिल को उस मक़ाम पे लाता चला गया`,
@@ -11152,7 +11150,7 @@ const hindiShayari = [
   {
     id: 1556,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `देखा है ज़िंदगी को कुछ इतने क़रीब से
 चेहरे तमाम लगने लगे हैं अजीब से`,
@@ -11161,7 +11159,7 @@ const hindiShayari = [
   {
     id: 1557,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `इक शहंशाह ने दौलत का सहारा ले कर
 हम ग़रीबों की मोहब्बत का उड़ाया है मज़ाक़`,
@@ -11179,7 +11177,7 @@ const hindiShayari = [
   {
     id: 1559,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `तंग आ चुके हैं कशमकश-ए-ज़िंदगी से हम
 ठुकरा न दें जहाँ को कहीं बे-दिली से हम`,
@@ -11188,7 +11186,7 @@ const hindiShayari = [
   {
     id: 1560,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `दुनिया ने तजरबात ओ हवादिस की शक्ल में
 जो कुछ मुझे दिया है वो लौटा रहा हूँ मैं`,
@@ -11224,7 +11222,7 @@ const hindiShayari = [
   {
     id: 1564,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अभी ज़िंदा हूँ लेकिन सोचता रहता हूँ ख़ल्वत में
 कि अब तक किस तमन्ना के सहारे जी लिया मैं ने`,
@@ -11233,7 +11231,7 @@ const hindiShayari = [
   {
     id: 1565,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ऐ ग़म-ए-दुनिया तुझे क्या इल्म तेरे वास्ते
 किन बहानों से तबीअ'त राह पर लाई गई`,
@@ -11260,7 +11258,7 @@ const hindiShayari = [
   {
     id: 1568,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अँधेरी शब में भी तामीर-ए-आशियाँ न रुके
 नहीं चराग़ तो क्या बर्क़ तो चमकती है`,
@@ -11278,7 +11276,7 @@ const hindiShayari = [
   {
     id: 1570,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ले दे के अपने पास फ़क़त इक नज़र तो है
 क्यूँ देखें ज़िंदगी को किसी की नज़र से हम`,
@@ -11287,7 +11285,7 @@ const hindiShayari = [
   {
     id: 1571,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ग़म और ख़ुशी में फ़र्क़ न महसूस हो जहाँ
 मैं दिल को उस मक़ाम पे लाता चला गया`,
@@ -11305,7 +11303,7 @@ const hindiShayari = [
   {
     id: 1573,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `देखा है ज़िंदगी को कुछ इतने क़रीब से
 चेहरे तमाम लगने लगे हैं अजीब से`,
@@ -11314,7 +11312,7 @@ const hindiShayari = [
   {
     id: 1574,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `इक शहंशाह ने दौलत का सहारा ले कर
 हम ग़रीबों की मोहब्बत का उड़ाया है मज़ाक़`,
@@ -11332,7 +11330,7 @@ const hindiShayari = [
   {
     id: 1576,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `तंग आ चुके हैं कशमकश-ए-ज़िंदगी से हम
 ठुकरा न दें जहाँ को कहीं बे-दिली से हम`,
@@ -11341,7 +11339,7 @@ const hindiShayari = [
   {
     id: 1577,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `दुनिया ने तजरबात ओ हवादिस की शक्ल में
 जो कुछ मुझे दिया है वो लौटा रहा हूँ मैं`,
@@ -11377,7 +11375,7 @@ const hindiShayari = [
   {
     id: 1581,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अभी ज़िंदा हूँ लेकिन सोचता रहता हूँ ख़ल्वत में
 कि अब तक किस तमन्ना के सहारे जी लिया मैं ने`,
@@ -11386,7 +11384,7 @@ const hindiShayari = [
   {
     id: 1582,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ऐ ग़म-ए-दुनिया तुझे क्या इल्म तेरे वास्ते
 किन बहानों से तबीअ'त राह पर लाई गई`,
@@ -11413,7 +11411,7 @@ const hindiShayari = [
   {
     id: 1585,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अँधेरी शब में भी तामीर-ए-आशियाँ न रुके
 नहीं चराग़ तो क्या बर्क़ तो चमकती है`,
@@ -11431,7 +11429,7 @@ const hindiShayari = [
   {
     id: 1587,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ले दे के अपने पास फ़क़त इक नज़र तो है
 क्यूँ देखें ज़िंदगी को किसी की नज़र से हम`,
@@ -11440,7 +11438,7 @@ const hindiShayari = [
   {
     id: 1588,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ग़म और ख़ुशी में फ़र्क़ न महसूस हो जहाँ
 मैं दिल को उस मक़ाम पे लाता चला गया`,
@@ -11458,7 +11456,7 @@ const hindiShayari = [
   {
     id: 1590,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `देखा है ज़िंदगी को कुछ इतने क़रीब से
 चेहरे तमाम लगने लगे हैं अजीब से`,
@@ -11467,7 +11465,7 @@ const hindiShayari = [
   {
     id: 1591,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `इक शहंशाह ने दौलत का सहारा ले कर
 हम ग़रीबों की मोहब्बत का उड़ाया है मज़ाक़`,
@@ -11485,7 +11483,7 @@ const hindiShayari = [
   {
     id: 1593,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `तंग आ चुके हैं कशमकश-ए-ज़िंदगी से हम
 ठुकरा न दें जहाँ को कहीं बे-दिली से हम`,
@@ -11494,7 +11492,7 @@ const hindiShayari = [
   {
     id: 1594,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `दुनिया ने तजरबात ओ हवादिस की शक्ल में
 जो कुछ मुझे दिया है वो लौटा रहा हूँ मैं`,
@@ -11530,7 +11528,7 @@ const hindiShayari = [
   {
     id: 1598,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अभी ज़िंदा हूँ लेकिन सोचता रहता हूँ ख़ल्वत में
 कि अब तक किस तमन्ना के सहारे जी लिया मैं ने`,
@@ -11539,7 +11537,7 @@ const hindiShayari = [
   {
     id: 1599,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ऐ ग़म-ए-दुनिया तुझे क्या इल्म तेरे वास्ते
 किन बहानों से तबीअ'त राह पर लाई गई`,
@@ -11566,7 +11564,7 @@ const hindiShayari = [
   {
     id: 1602,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अँधेरी शब में भी तामीर-ए-आशियाँ न रुके
 नहीं चराग़ तो क्या बर्क़ तो चमकती है`,
@@ -11584,7 +11582,7 @@ const hindiShayari = [
   {
     id: 1604,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ले दे के अपने पास फ़क़त इक नज़र तो है
 क्यूँ देखें ज़िंदगी को किसी की नज़र से हम`,
@@ -11593,7 +11591,7 @@ const hindiShayari = [
   {
     id: 1605,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ग़म और ख़ुशी में फ़र्क़ न महसूस हो जहाँ
 मैं दिल को उस मक़ाम पे लाता चला गया`,
@@ -11611,7 +11609,7 @@ const hindiShayari = [
   {
     id: 1607,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `देखा है ज़िंदगी को कुछ इतने क़रीब से
 चेहरे तमाम लगने लगे हैं अजीब से`,
@@ -11620,7 +11618,7 @@ const hindiShayari = [
   {
     id: 1608,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `इक शहंशाह ने दौलत का सहारा ले कर
 हम ग़रीबों की मोहब्बत का उड़ाया है मज़ाक़`,
@@ -11638,7 +11636,7 @@ const hindiShayari = [
   {
     id: 1610,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `तंग आ चुके हैं कशमकश-ए-ज़िंदगी से हम
 ठुकरा न दें जहाँ को कहीं बे-दिली से हम`,
@@ -11647,7 +11645,7 @@ const hindiShayari = [
   {
     id: 1611,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `दुनिया ने तजरबात ओ हवादिस की शक्ल में
 जो कुछ मुझे दिया है वो लौटा रहा हूँ मैं`,
@@ -11683,7 +11681,7 @@ const hindiShayari = [
   {
     id: 1615,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अभी ज़िंदा हूँ लेकिन सोचता रहता हूँ ख़ल्वत में
 कि अब तक किस तमन्ना के सहारे जी लिया मैं ने`,
@@ -11692,7 +11690,7 @@ const hindiShayari = [
   {
     id: 1616,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ऐ ग़म-ए-दुनिया तुझे क्या इल्म तेरे वास्ते
 किन बहानों से तबीअ'त राह पर लाई गई`,
@@ -11719,7 +11717,7 @@ const hindiShayari = [
   {
     id: 1619,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अँधेरी शब में भी तामीर-ए-आशियाँ न रुके
 नहीं चराग़ तो क्या बर्क़ तो चमकती है`,
@@ -11737,7 +11735,7 @@ const hindiShayari = [
   {
     id: 1621,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ले दे के अपने पास फ़क़त इक नज़र तो है
 क्यूँ देखें ज़िंदगी को किसी की नज़र से हम`,
@@ -11746,7 +11744,7 @@ const hindiShayari = [
   {
     id: 1622,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ग़म और ख़ुशी में फ़र्क़ न महसूस हो जहाँ
 मैं दिल को उस मक़ाम पे लाता चला गया`,
@@ -11764,7 +11762,7 @@ const hindiShayari = [
   {
     id: 1624,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `देखा है ज़िंदगी को कुछ इतने क़रीब से
 चेहरे तमाम लगने लगे हैं अजीब से`,
@@ -11773,7 +11771,7 @@ const hindiShayari = [
   {
     id: 1625,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `इक शहंशाह ने दौलत का सहारा ले कर
 हम ग़रीबों की मोहब्बत का उड़ाया है मज़ाक़`,
@@ -11791,7 +11789,7 @@ const hindiShayari = [
   {
     id: 1627,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `तंग आ चुके हैं कशमकश-ए-ज़िंदगी से हम
 ठुकरा न दें जहाँ को कहीं बे-दिली से हम`,
@@ -11800,7 +11798,7 @@ const hindiShayari = [
   {
     id: 1628,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `दुनिया ने तजरबात ओ हवादिस की शक्ल में
 जो कुछ मुझे दिया है वो लौटा रहा हूँ मैं`,
@@ -11836,7 +11834,7 @@ const hindiShayari = [
   {
     id: 1632,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अभी ज़िंदा हूँ लेकिन सोचता रहता हूँ ख़ल्वत में
 कि अब तक किस तमन्ना के सहारे जी लिया मैं ने`,
@@ -11845,7 +11843,7 @@ const hindiShayari = [
   {
     id: 1633,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ऐ ग़म-ए-दुनिया तुझे क्या इल्म तेरे वास्ते
 किन बहानों से तबीअ'त राह पर लाई गई`,
@@ -11872,7 +11870,7 @@ const hindiShayari = [
   {
     id: 1636,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अँधेरी शब में भी तामीर-ए-आशियाँ न रुके
 नहीं चराग़ तो क्या बर्क़ तो चमकती है`,
@@ -11890,7 +11888,7 @@ const hindiShayari = [
   {
     id: 1638,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ले दे के अपने पास फ़क़त इक नज़र तो है
 क्यूँ देखें ज़िंदगी को किसी की नज़र से हम`,
@@ -11899,7 +11897,7 @@ const hindiShayari = [
   {
     id: 1639,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ग़म और ख़ुशी में फ़र्क़ न महसूस हो जहाँ
 मैं दिल को उस मक़ाम पे लाता चला गया`,
@@ -11917,7 +11915,7 @@ const hindiShayari = [
   {
     id: 1641,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `देखा है ज़िंदगी को कुछ इतने क़रीब से
 चेहरे तमाम लगने लगे हैं अजीब से`,
@@ -11926,7 +11924,7 @@ const hindiShayari = [
   {
     id: 1642,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `इक शहंशाह ने दौलत का सहारा ले कर
 हम ग़रीबों की मोहब्बत का उड़ाया है मज़ाक़`,
@@ -11944,7 +11942,7 @@ const hindiShayari = [
   {
     id: 1644,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `तंग आ चुके हैं कशमकश-ए-ज़िंदगी से हम
 ठुकरा न दें जहाँ को कहीं बे-दिली से हम`,
@@ -11953,7 +11951,7 @@ const hindiShayari = [
   {
     id: 1645,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `दुनिया ने तजरबात ओ हवादिस की शक्ल में
 जो कुछ मुझे दिया है वो लौटा रहा हूँ मैं`,
@@ -11989,7 +11987,7 @@ const hindiShayari = [
   {
     id: 1649,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अभी ज़िंदा हूँ लेकिन सोचता रहता हूँ ख़ल्वत में
 कि अब तक किस तमन्ना के सहारे जी लिया मैं ने`,
@@ -11998,7 +11996,7 @@ const hindiShayari = [
   {
     id: 1650,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ऐ ग़म-ए-दुनिया तुझे क्या इल्म तेरे वास्ते
 किन बहानों से तबीअ'त राह पर लाई गई`,
@@ -12025,7 +12023,7 @@ const hindiShayari = [
   {
     id: 1653,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अँधेरी शब में भी तामीर-ए-आशियाँ न रुके
 नहीं चराग़ तो क्या बर्क़ तो चमकती है`,
@@ -12043,7 +12041,7 @@ const hindiShayari = [
   {
     id: 1655,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ले दे के अपने पास फ़क़त इक नज़र तो है
 क्यूँ देखें ज़िंदगी को किसी की नज़र से हम`,
@@ -12052,7 +12050,7 @@ const hindiShayari = [
   {
     id: 1656,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ग़म और ख़ुशी में फ़र्क़ न महसूस हो जहाँ
 मैं दिल को उस मक़ाम पे लाता चला गया`,
@@ -12070,7 +12068,7 @@ const hindiShayari = [
   {
     id: 1658,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `देखा है ज़िंदगी को कुछ इतने क़रीब से
 चेहरे तमाम लगने लगे हैं अजीब से`,
@@ -12079,7 +12077,7 @@ const hindiShayari = [
   {
     id: 1659,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `इक शहंशाह ने दौलत का सहारा ले कर
 हम ग़रीबों की मोहब्बत का उड़ाया है मज़ाक़`,
@@ -12097,7 +12095,7 @@ const hindiShayari = [
   {
     id: 1661,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `तंग आ चुके हैं कशमकश-ए-ज़िंदगी से हम
 ठुकरा न दें जहाँ को कहीं बे-दिली से हम`,
@@ -12106,7 +12104,7 @@ const hindiShayari = [
   {
     id: 1662,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `दुनिया ने तजरबात ओ हवादिस की शक्ल में
 जो कुछ मुझे दिया है वो लौटा रहा हूँ मैं`,
@@ -12142,7 +12140,7 @@ const hindiShayari = [
   {
     id: 1666,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अभी ज़िंदा हूँ लेकिन सोचता रहता हूँ ख़ल्वत में
 कि अब तक किस तमन्ना के सहारे जी लिया मैं ने`,
@@ -12151,7 +12149,7 @@ const hindiShayari = [
   {
     id: 1667,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ऐ ग़म-ए-दुनिया तुझे क्या इल्म तेरे वास्ते
 किन बहानों से तबीअ'त राह पर लाई गई`,
@@ -12178,7 +12176,7 @@ const hindiShayari = [
   {
     id: 1670,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अँधेरी शब में भी तामीर-ए-आशियाँ न रुके
 नहीं चराग़ तो क्या बर्क़ तो चमकती है`,
@@ -12196,7 +12194,7 @@ const hindiShayari = [
   {
     id: 1672,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ले दे के अपने पास फ़क़त इक नज़र तो है
 क्यूँ देखें ज़िंदगी को किसी की नज़र से हम`,
@@ -12205,7 +12203,7 @@ const hindiShayari = [
   {
     id: 1673,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ग़म और ख़ुशी में फ़र्क़ न महसूस हो जहाँ
 मैं दिल को उस मक़ाम पे लाता चला गया`,
@@ -12223,7 +12221,7 @@ const hindiShayari = [
   {
     id: 1675,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `देखा है ज़िंदगी को कुछ इतने क़रीब से
 चेहरे तमाम लगने लगे हैं अजीब से`,
@@ -12232,7 +12230,7 @@ const hindiShayari = [
   {
     id: 1676,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `इक शहंशाह ने दौलत का सहारा ले कर
 हम ग़रीबों की मोहब्बत का उड़ाया है मज़ाक़`,
@@ -12250,7 +12248,7 @@ const hindiShayari = [
   {
     id: 1678,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `तंग आ चुके हैं कशमकश-ए-ज़िंदगी से हम
 ठुकरा न दें जहाँ को कहीं बे-दिली से हम`,
@@ -12259,7 +12257,7 @@ const hindiShayari = [
   {
     id: 1679,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `दुनिया ने तजरबात ओ हवादिस की शक्ल में
 जो कुछ मुझे दिया है वो लौटा रहा हूँ मैं`,
@@ -12295,7 +12293,7 @@ const hindiShayari = [
   {
     id: 1683,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अभी ज़िंदा हूँ लेकिन सोचता रहता हूँ ख़ल्वत में
 कि अब तक किस तमन्ना के सहारे जी लिया मैं ने`,
@@ -12304,7 +12302,7 @@ const hindiShayari = [
   {
     id: 1684,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ऐ ग़म-ए-दुनिया तुझे क्या इल्म तेरे वास्ते
 किन बहानों से तबीअ'त राह पर लाई गई`,
@@ -12331,7 +12329,7 @@ const hindiShayari = [
   {
     id: 1687,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `अँधेरी शब में भी तामीर-ए-आशियाँ न रुके
 नहीं चराग़ तो क्या बर्क़ तो चमकती है`,
@@ -12349,7 +12347,7 @@ const hindiShayari = [
   {
     id: 1689,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मोहसिन नक़वी',
     text: `हर वक़्त का हँसना तुझे बर्बाद न कर दे
 तन्हाई के लम्हों में कभी रो भी लिया कर`,
@@ -12358,7 +12356,7 @@ const hindiShayari = [
   {
     id: 1690,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मोहसिन नक़वी',
     text: `सिर्फ़ हाथों को न देखो कभी आँखें भी पढ़ो
 कुछ सवाली बड़े ख़ुद्दार हुआ करते हैं`,
@@ -12367,7 +12365,7 @@ const hindiShayari = [
   {
     id: 1691,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मोहसिन नक़वी',
     text: `कल थके-हारे परिंदों ने नसीहत की मुझे
 शाम ढल जाए तो 'मोहसिन' तुम भी घर जाया करो`,
@@ -12457,7 +12455,7 @@ const hindiShayari = [
   {
     id: 1701,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मोहसिन नक़वी',
     text: `ढलते सूरज की तमाज़त ने बिखर कर देखा
 सर-कशीदा मिरा साया सफ़-ए-अशजार के बीच`,
@@ -12466,7 +12464,7 @@ const hindiShayari = [
   {
     id: 1702,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मोहसिन नक़वी',
     text: `हम अपनी धरती से अपनी हर सम्त ख़ुद तलाशें
 हमारी ख़ातिर कोई सितारा नहीं चलेगा`,
@@ -12475,7 +12473,7 @@ const hindiShayari = [
   {
     id: 1703,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मोहसिन नक़वी',
     text: `वो मुझ से बढ़ के ज़ब्त का आदी था जी गया
 वर्ना हर एक साँस क़यामत उसे भी थी`,
@@ -12520,7 +12518,7 @@ const hindiShayari = [
   {
     id: 1708,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मोहसिन नक़वी',
     text: `जो अपनी ज़ात से बाहर न आ सका अब तक
 वो पत्थरों को मता-ए-हवास क्या देगा`,
@@ -12529,7 +12527,7 @@ const hindiShayari = [
   {
     id: 1709,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मोहसिन नक़वी',
     text: `हर वक़्त का हँसना तुझे बर्बाद न कर दे
 तन्हाई के लम्हों में कभी रो भी लिया कर`,
@@ -12538,7 +12536,7 @@ const hindiShayari = [
   {
     id: 1710,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मोहसिन नक़वी',
     text: `सिर्फ़ हाथों को न देखो कभी आँखें भी पढ़ो
 कुछ सवाली बड़े ख़ुद्दार हुआ करते हैं`,
@@ -12547,7 +12545,7 @@ const hindiShayari = [
   {
     id: 1711,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मोहसिन नक़वी',
     text: `कल थके-हारे परिंदों ने नसीहत की मुझे
 शाम ढल जाए तो 'मोहसिन' तुम भी घर जाया करो`,
@@ -12637,7 +12635,7 @@ const hindiShayari = [
   {
     id: 1721,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मोहसिन नक़वी',
     text: `ढलते सूरज की तमाज़त ने बिखर कर देखा
 सर-कशीदा मिरा साया सफ़-ए-अशजार के बीच`,
@@ -12646,7 +12644,7 @@ const hindiShayari = [
   {
     id: 1722,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मोहसिन नक़वी',
     text: `हम अपनी धरती से अपनी हर सम्त ख़ुद तलाशें
 हमारी ख़ातिर कोई सितारा नहीं चलेगा`,
@@ -12655,7 +12653,7 @@ const hindiShayari = [
   {
     id: 1723,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मोहसिन नक़वी',
     text: `वो मुझ से बढ़ के ज़ब्त का आदी था जी गया
 वर्ना हर एक साँस क़यामत उसे भी थी`,
@@ -12700,7 +12698,7 @@ const hindiShayari = [
   {
     id: 1728,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मोहसिन नक़वी',
     text: `जो अपनी ज़ात से बाहर न आ सका अब तक
 वो पत्थरों को मता-ए-हवास क्या देगा`,
@@ -12817,7 +12815,7 @@ const hindiShayari = [
   {
     id: 1741,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'नासिर काज़मी',
     text: `यूँ तो हर शख़्स अकेला है भरी दुनिया में
 फिर भी हर दिल के मुक़द्दर में नहीं तन्हाई`,
@@ -12826,7 +12824,7 @@ const hindiShayari = [
   {
     id: 1742,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'नासिर काज़मी',
     text: `कल जो था वो आज नहीं जो आज है कल मिट जाएगा
 रूखी-सूखी जो मिल जाए शुक्र करो तो बेहतर है`,
@@ -12880,7 +12878,7 @@ const hindiShayari = [
   {
     id: 1748,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'नासिर काज़मी',
     text: `सारा दिन तपते सूरज की गर्मी में जलते रहे
 ठंडी ठंडी हवा फिर चली सो रहो सो रहो`,
@@ -12889,7 +12887,7 @@ const hindiShayari = [
   {
     id: 1749,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `तमाम रात नहाया था शहर बारिश में
 वो रंग उतर ही गए जो उतरने वाले थे`,
@@ -12907,7 +12905,7 @@ const hindiShayari = [
   {
     id: 1751,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `'जमाल' हर शहर से है प्यारा वो शहर मुझ को
 जहाँ से देखा था पहली बार आसमान मैं ने`,
@@ -12934,7 +12932,7 @@ const hindiShayari = [
   {
     id: 1754,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `हारने वालों ने इस रुख़ से भी सोचा होगा
 सर कटाना है तो हथियार न डाले जाएँ`,
@@ -12961,7 +12959,7 @@ const hindiShayari = [
   {
     id: 1757,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `थकन बहुत थी मगर साया-ए-शजर में 'जमाल'
 मैं बैठता तो मिरा हम-सफ़र चला जाता`,
@@ -12979,7 +12977,7 @@ const hindiShayari = [
   {
     id: 1759,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `और अब ये चाहता हूँ कोई ग़म बटाए मिरा
 मैं अपनी मिट्टी कभी आप ढोने वाला था`,
@@ -13015,7 +13013,7 @@ const hindiShayari = [
   {
     id: 1763,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `जो मेरे ज़िक्र पर अब क़हक़हे लगाता है
 बिछड़ते वक़्त कोई हाल देखता उस का`,
@@ -13024,7 +13022,7 @@ const hindiShayari = [
   {
     id: 1764,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `उस रस्ते पर पीछे से इतनी आवाज़ें आईं 'जमाल'
 एक जगह तो घूम के रह गई एड़ी सीधे पाँव की`,
@@ -13033,7 +13031,7 @@ const hindiShayari = [
   {
     id: 1765,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `मिरा कमाल कि मैं इस फ़ज़ा में ज़िंदा हूँ
 दु'आ न मिलते हुए और हवा न होते हुए`,
@@ -13069,7 +13067,7 @@ const hindiShayari = [
   {
     id: 1769,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `तमाम रात नहाया था शहर बारिश में
 वो रंग उतर ही गए जो उतरने वाले थे`,
@@ -13087,7 +13085,7 @@ const hindiShayari = [
   {
     id: 1771,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `'जमाल' हर शहर से है प्यारा वो शहर मुझ को
 जहाँ से देखा था पहली बार आसमान मैं ने`,
@@ -13114,7 +13112,7 @@ const hindiShayari = [
   {
     id: 1774,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `हारने वालों ने इस रुख़ से भी सोचा होगा
 सर कटाना है तो हथियार न डाले जाएँ`,
@@ -13141,7 +13139,7 @@ const hindiShayari = [
   {
     id: 1777,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `थकन बहुत थी मगर साया-ए-शजर में 'जमाल'
 मैं बैठता तो मिरा हम-सफ़र चला जाता`,
@@ -13159,7 +13157,7 @@ const hindiShayari = [
   {
     id: 1779,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `और अब ये चाहता हूँ कोई ग़म बटाए मिरा
 मैं अपनी मिट्टी कभी आप ढोने वाला था`,
@@ -13195,7 +13193,7 @@ const hindiShayari = [
   {
     id: 1783,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `जो मेरे ज़िक्र पर अब क़हक़हे लगाता है
 बिछड़ते वक़्त कोई हाल देखता उस का`,
@@ -13204,7 +13202,7 @@ const hindiShayari = [
   {
     id: 1784,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `उस रस्ते पर पीछे से इतनी आवाज़ें आईं 'जमाल'
 एक जगह तो घूम के रह गई एड़ी सीधे पाँव की`,
@@ -13213,7 +13211,7 @@ const hindiShayari = [
   {
     id: 1785,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `मिरा कमाल कि मैं इस फ़ज़ा में ज़िंदा हूँ
 दु'आ न मिलते हुए और हवा न होते हुए`,
@@ -13249,7 +13247,7 @@ const hindiShayari = [
   {
     id: 1789,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `तमाम रात नहाया था शहर बारिश में
 वो रंग उतर ही गए जो उतरने वाले थे`,
@@ -13267,7 +13265,7 @@ const hindiShayari = [
   {
     id: 1791,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `'जमाल' हर शहर से है प्यारा वो शहर मुझ को
 जहाँ से देखा था पहली बार आसमान मैं ने`,
@@ -13294,7 +13292,7 @@ const hindiShayari = [
   {
     id: 1794,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `हारने वालों ने इस रुख़ से भी सोचा होगा
 सर कटाना है तो हथियार न डाले जाएँ`,
@@ -13321,7 +13319,7 @@ const hindiShayari = [
   {
     id: 1797,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `थकन बहुत थी मगर साया-ए-शजर में 'जमाल'
 मैं बैठता तो मिरा हम-सफ़र चला जाता`,
@@ -13339,7 +13337,7 @@ const hindiShayari = [
   {
     id: 1799,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `और अब ये चाहता हूँ कोई ग़म बटाए मिरा
 मैं अपनी मिट्टी कभी आप ढोने वाला था`,
@@ -13375,7 +13373,7 @@ const hindiShayari = [
   {
     id: 1803,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `जो मेरे ज़िक्र पर अब क़हक़हे लगाता है
 बिछड़ते वक़्त कोई हाल देखता उस का`,
@@ -13384,7 +13382,7 @@ const hindiShayari = [
   {
     id: 1804,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `उस रस्ते पर पीछे से इतनी आवाज़ें आईं 'जमाल'
 एक जगह तो घूम के रह गई एड़ी सीधे पाँव की`,
@@ -13393,7 +13391,7 @@ const hindiShayari = [
   {
     id: 1805,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `मिरा कमाल कि मैं इस फ़ज़ा में ज़िंदा हूँ
 दु'आ न मिलते हुए और हवा न होते हुए`,
@@ -13429,7 +13427,7 @@ const hindiShayari = [
   {
     id: 1809,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `तमाम रात नहाया था शहर बारिश में
 वो रंग उतर ही गए जो उतरने वाले थे`,
@@ -13447,7 +13445,7 @@ const hindiShayari = [
   {
     id: 1811,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `'जमाल' हर शहर से है प्यारा वो शहर मुझ को
 जहाँ से देखा था पहली बार आसमान मैं ने`,
@@ -13474,7 +13472,7 @@ const hindiShayari = [
   {
     id: 1814,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `हारने वालों ने इस रुख़ से भी सोचा होगा
 सर कटाना है तो हथियार न डाले जाएँ`,
@@ -13501,7 +13499,7 @@ const hindiShayari = [
   {
     id: 1817,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `थकन बहुत थी मगर साया-ए-शजर में 'जमाल'
 मैं बैठता तो मिरा हम-सफ़र चला जाता`,
@@ -13519,7 +13517,7 @@ const hindiShayari = [
   {
     id: 1819,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `और अब ये चाहता हूँ कोई ग़म बटाए मिरा
 मैं अपनी मिट्टी कभी आप ढोने वाला था`,
@@ -13555,7 +13553,7 @@ const hindiShayari = [
   {
     id: 1823,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `जो मेरे ज़िक्र पर अब क़हक़हे लगाता है
 बिछड़ते वक़्त कोई हाल देखता उस का`,
@@ -13564,7 +13562,7 @@ const hindiShayari = [
   {
     id: 1824,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `उस रस्ते पर पीछे से इतनी आवाज़ें आईं 'जमाल'
 एक जगह तो घूम के रह गई एड़ी सीधे पाँव की`,
@@ -13573,7 +13571,7 @@ const hindiShayari = [
   {
     id: 1825,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `मिरा कमाल कि मैं इस फ़ज़ा में ज़िंदा हूँ
 दु'आ न मिलते हुए और हवा न होते हुए`,
@@ -13609,7 +13607,7 @@ const hindiShayari = [
   {
     id: 1829,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `तमाम रात नहाया था शहर बारिश में
 वो रंग उतर ही गए जो उतरने वाले थे`,
@@ -13627,7 +13625,7 @@ const hindiShayari = [
   {
     id: 1831,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `'जमाल' हर शहर से है प्यारा वो शहर मुझ को
 जहाँ से देखा था पहली बार आसमान मैं ने`,
@@ -13654,7 +13652,7 @@ const hindiShayari = [
   {
     id: 1834,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `हारने वालों ने इस रुख़ से भी सोचा होगा
 सर कटाना है तो हथियार न डाले जाएँ`,
@@ -13681,7 +13679,7 @@ const hindiShayari = [
   {
     id: 1837,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `थकन बहुत थी मगर साया-ए-शजर में 'जमाल'
 मैं बैठता तो मिरा हम-सफ़र चला जाता`,
@@ -13699,7 +13697,7 @@ const hindiShayari = [
   {
     id: 1839,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `और अब ये चाहता हूँ कोई ग़म बटाए मिरा
 मैं अपनी मिट्टी कभी आप ढोने वाला था`,
@@ -13735,7 +13733,7 @@ const hindiShayari = [
   {
     id: 1843,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `जो मेरे ज़िक्र पर अब क़हक़हे लगाता है
 बिछड़ते वक़्त कोई हाल देखता उस का`,
@@ -13744,7 +13742,7 @@ const hindiShayari = [
   {
     id: 1844,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `उस रस्ते पर पीछे से इतनी आवाज़ें आईं 'जमाल'
 एक जगह तो घूम के रह गई एड़ी सीधे पाँव की`,
@@ -13753,7 +13751,7 @@ const hindiShayari = [
   {
     id: 1845,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `मिरा कमाल कि मैं इस फ़ज़ा में ज़िंदा हूँ
 दु'आ न मिलते हुए और हवा न होते हुए`,
@@ -13789,7 +13787,7 @@ const hindiShayari = [
   {
     id: 1849,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `तमाम रात नहाया था शहर बारिश में
 वो रंग उतर ही गए जो उतरने वाले थे`,
@@ -13807,7 +13805,7 @@ const hindiShayari = [
   {
     id: 1851,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `'जमाल' हर शहर से है प्यारा वो शहर मुझ को
 जहाँ से देखा था पहली बार आसमान मैं ने`,
@@ -13834,7 +13832,7 @@ const hindiShayari = [
   {
     id: 1854,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `हारने वालों ने इस रुख़ से भी सोचा होगा
 सर कटाना है तो हथियार न डाले जाएँ`,
@@ -13861,7 +13859,7 @@ const hindiShayari = [
   {
     id: 1857,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `थकन बहुत थी मगर साया-ए-शजर में 'जमाल'
 मैं बैठता तो मिरा हम-सफ़र चला जाता`,
@@ -13879,7 +13877,7 @@ const hindiShayari = [
   {
     id: 1859,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `और अब ये चाहता हूँ कोई ग़म बटाए मिरा
 मैं अपनी मिट्टी कभी आप ढोने वाला था`,
@@ -13915,7 +13913,7 @@ const hindiShayari = [
   {
     id: 1863,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `जो मेरे ज़िक्र पर अब क़हक़हे लगाता है
 बिछड़ते वक़्त कोई हाल देखता उस का`,
@@ -13924,7 +13922,7 @@ const hindiShayari = [
   {
     id: 1864,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `उस रस्ते पर पीछे से इतनी आवाज़ें आईं 'जमाल'
 एक जगह तो घूम के रह गई एड़ी सीधे पाँव की`,
@@ -13933,7 +13931,7 @@ const hindiShayari = [
   {
     id: 1865,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `मिरा कमाल कि मैं इस फ़ज़ा में ज़िंदा हूँ
 दु'आ न मिलते हुए और हवा न होते हुए`,
@@ -13969,7 +13967,7 @@ const hindiShayari = [
   {
     id: 1869,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `तमाम रात नहाया था शहर बारिश में
 वो रंग उतर ही गए जो उतरने वाले थे`,
@@ -13987,7 +13985,7 @@ const hindiShayari = [
   {
     id: 1871,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `'जमाल' हर शहर से है प्यारा वो शहर मुझ को
 जहाँ से देखा था पहली बार आसमान मैं ने`,
@@ -14014,7 +14012,7 @@ const hindiShayari = [
   {
     id: 1874,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `हारने वालों ने इस रुख़ से भी सोचा होगा
 सर कटाना है तो हथियार न डाले जाएँ`,
@@ -14041,7 +14039,7 @@ const hindiShayari = [
   {
     id: 1877,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `थकन बहुत थी मगर साया-ए-शजर में 'जमाल'
 मैं बैठता तो मिरा हम-सफ़र चला जाता`,
@@ -14059,7 +14057,7 @@ const hindiShayari = [
   {
     id: 1879,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `और अब ये चाहता हूँ कोई ग़म बटाए मिरा
 मैं अपनी मिट्टी कभी आप ढोने वाला था`,
@@ -14095,7 +14093,7 @@ const hindiShayari = [
   {
     id: 1883,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `जो मेरे ज़िक्र पर अब क़हक़हे लगाता है
 बिछड़ते वक़्त कोई हाल देखता उस का`,
@@ -14104,7 +14102,7 @@ const hindiShayari = [
   {
     id: 1884,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `उस रस्ते पर पीछे से इतनी आवाज़ें आईं 'जमाल'
 एक जगह तो घूम के रह गई एड़ी सीधे पाँव की`,
@@ -14113,7 +14111,7 @@ const hindiShayari = [
   {
     id: 1885,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `मिरा कमाल कि मैं इस फ़ज़ा में ज़िंदा हूँ
 दु'आ न मिलते हुए और हवा न होते हुए`,
@@ -14149,7 +14147,7 @@ const hindiShayari = [
   {
     id: 1889,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `तमाम रात नहाया था शहर बारिश में
 वो रंग उतर ही गए जो उतरने वाले थे`,
@@ -14167,7 +14165,7 @@ const hindiShayari = [
   {
     id: 1891,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `'जमाल' हर शहर से है प्यारा वो शहर मुझ को
 जहाँ से देखा था पहली बार आसमान मैं ने`,
@@ -14194,7 +14192,7 @@ const hindiShayari = [
   {
     id: 1894,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `हारने वालों ने इस रुख़ से भी सोचा होगा
 सर कटाना है तो हथियार न डाले जाएँ`,
@@ -14221,7 +14219,7 @@ const hindiShayari = [
   {
     id: 1897,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `थकन बहुत थी मगर साया-ए-शजर में 'जमाल'
 मैं बैठता तो मिरा हम-सफ़र चला जाता`,
@@ -14239,7 +14237,7 @@ const hindiShayari = [
   {
     id: 1899,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `और अब ये चाहता हूँ कोई ग़म बटाए मिरा
 मैं अपनी मिट्टी कभी आप ढोने वाला था`,
@@ -14275,7 +14273,7 @@ const hindiShayari = [
   {
     id: 1903,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `जो मेरे ज़िक्र पर अब क़हक़हे लगाता है
 बिछड़ते वक़्त कोई हाल देखता उस का`,
@@ -14284,7 +14282,7 @@ const hindiShayari = [
   {
     id: 1904,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `उस रस्ते पर पीछे से इतनी आवाज़ें आईं 'जमाल'
 एक जगह तो घूम के रह गई एड़ी सीधे पाँव की`,
@@ -14293,7 +14291,7 @@ const hindiShayari = [
   {
     id: 1905,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `मिरा कमाल कि मैं इस फ़ज़ा में ज़िंदा हूँ
 दु'आ न मिलते हुए और हवा न होते हुए`,
@@ -14329,7 +14327,7 @@ const hindiShayari = [
   {
     id: 1909,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `तमाम रात नहाया था शहर बारिश में
 वो रंग उतर ही गए जो उतरने वाले थे`,
@@ -14347,7 +14345,7 @@ const hindiShayari = [
   {
     id: 1911,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `'जमाल' हर शहर से है प्यारा वो शहर मुझ को
 जहाँ से देखा था पहली बार आसमान मैं ने`,
@@ -14374,7 +14372,7 @@ const hindiShayari = [
   {
     id: 1914,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `हारने वालों ने इस रुख़ से भी सोचा होगा
 सर कटाना है तो हथियार न डाले जाएँ`,
@@ -14401,7 +14399,7 @@ const hindiShayari = [
   {
     id: 1917,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `थकन बहुत थी मगर साया-ए-शजर में 'जमाल'
 मैं बैठता तो मिरा हम-सफ़र चला जाता`,
@@ -14419,7 +14417,7 @@ const hindiShayari = [
   {
     id: 1919,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `और अब ये चाहता हूँ कोई ग़म बटाए मिरा
 मैं अपनी मिट्टी कभी आप ढोने वाला था`,
@@ -14455,7 +14453,7 @@ const hindiShayari = [
   {
     id: 1923,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `जो मेरे ज़िक्र पर अब क़हक़हे लगाता है
 बिछड़ते वक़्त कोई हाल देखता उस का`,
@@ -14464,7 +14462,7 @@ const hindiShayari = [
   {
     id: 1924,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `उस रस्ते पर पीछे से इतनी आवाज़ें आईं 'जमाल'
 एक जगह तो घूम के रह गई एड़ी सीधे पाँव की`,
@@ -14473,7 +14471,7 @@ const hindiShayari = [
   {
     id: 1925,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'जमाल एहसानी',
     text: `मिरा कमाल कि मैं इस फ़ज़ा में ज़िंदा हूँ
 दु'आ न मिलते हुए और हवा न होते हुए`,
@@ -14527,7 +14525,7 @@ const hindiShayari = [
   {
     id: 1931,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मीर तक़ी मीर',
     text: `ले साँस भी आहिस्ता कि नाज़ुक है बहुत काम
 आफ़ाक़ की इस कारगह-ए-शीशागरी का`,
@@ -14563,7 +14561,7 @@ const hindiShayari = [
   {
     id: 1935,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मीर तक़ी मीर',
     text: `गुफ़्तुगू रेख़्ते में हम से न कर
 ये हमारी ज़बान है प्यारे`,
@@ -14581,7 +14579,7 @@ const hindiShayari = [
   {
     id: 1937,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मीर तक़ी मीर',
     text: `आफ़ाक़ की मंज़िल से गया कौन सलामत
 अस्बाब लुटा राह में याँ हर सफ़री का`,
@@ -14671,7 +14669,7 @@ const hindiShayari = [
   {
     id: 1947,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मीर तक़ी मीर',
     text: `इज्ज़-ओ-नियाज़ अपना अपनी तरफ़ है सारा
 इस मुश्त-ए-ख़ाक को हम मसजूद जानते हैं`,
@@ -14707,7 +14705,7 @@ const hindiShayari = [
   {
     id: 1951,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मीर तक़ी मीर',
     text: `ले साँस भी आहिस्ता कि नाज़ुक है बहुत काम
 आफ़ाक़ की इस कारगह-ए-शीशागरी का`,
@@ -14743,7 +14741,7 @@ const hindiShayari = [
   {
     id: 1955,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मीर तक़ी मीर',
     text: `गुफ़्तुगू रेख़्ते में हम से न कर
 ये हमारी ज़बान है प्यारे`,
@@ -14761,7 +14759,7 @@ const hindiShayari = [
   {
     id: 1957,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मीर तक़ी मीर',
     text: `आफ़ाक़ की मंज़िल से गया कौन सलामत
 अस्बाब लुटा राह में याँ हर सफ़री का`,
@@ -14851,7 +14849,7 @@ const hindiShayari = [
   {
     id: 1967,
     language: 'hindi',
-    category: 'life',
+    category: 'philosophical',
     author: 'मीर तक़ी मीर',
     text: `इज्ज़-ओ-नियाज़ अपना अपनी तरफ़ है सारा
 इस मुश्त-ए-ख़ाक को हम मसजूद जानते हैं`,
@@ -14924,7 +14922,7 @@ const hindiShayari = [
   {
     id: 1976,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `हर इक से कहते हैं क्या 'दाग़' बेवफ़ा निकला
 ये पूछे उन से कोई वो ग़ुलाम किस का था`
@@ -14972,7 +14970,7 @@ const hindiShayari = [
   {
     id: 1982,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `तड़प फिर ऐ दिल-ए-नादाँ कि ग़ैर कहते हैं
 अख़ीर कुछ न बनी सब्र इख़्तियार किया`
@@ -14988,7 +14986,7 @@ const hindiShayari = [
   {
     id: 1984,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `बनेगा मेहर-ए-क़यामत भी एक ख़ाल-ए-सियाह
 जो चेहरा 'दाग़'-ए-सियह-रू ने आश्कार किया`
@@ -15028,7 +15026,7 @@ const hindiShayari = [
   {
     id: 1989,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `ज़ीस्त से तंग हो ऐ 'दाग़' तो जीते क्यूँ हो
 जान प्यारी भी नहीं जान से जाते भी नहीं`
@@ -15060,7 +15058,7 @@ const hindiShayari = [
   {
     id: 1993,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `काबा ओ दैर में या चश्म-ओ-दिल-ए-आशिक़ में
 इन्हीं दो-चार घरों में है ठिकाना तेरा`
@@ -15076,7 +15074,7 @@ const hindiShayari = [
   {
     id: 1995,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `'दाग़' को यूँ वो मिटाते हैं ये फ़रमाते हैं
 तू बदल डाल हुआ नाम पुराना तेरा`
@@ -15108,7 +15106,7 @@ const hindiShayari = [
   {
     id: 1999,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `है मजमा-ए-अग़्यार कि हंगामा-ए-महशर
 क्या सैर मिरे दीदा-ए-तर देख रहे हैं`
@@ -15124,7 +15122,7 @@ const hindiShayari = [
   {
     id: 2001,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `मैं 'दाग़' हूँ मरता हूँ इधर देखिए मुझ को
 मुँह फेर के ये आप किधर देख रहे हैं`
@@ -15156,7 +15154,7 @@ const hindiShayari = [
   {
     id: 2005,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `दे ख़ुदा और जगह सीना ओ पहलू के सिवा
 कि बुरे वक़्त में हो जाए ठिकाना दिल का`
@@ -15172,7 +15170,7 @@ const hindiShayari = [
   {
     id: 2007,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `बा'द मुद्दत के ये ऐ 'दाग़' समझ में आया
 वही दाना है कहा जिस ने न माना दिल का`
@@ -15188,7 +15186,7 @@ const hindiShayari = [
   {
     id: 2009,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `कहीं है ईद की शादी कहीं मातम है मक़्तल में
 कोई क़ातिल से मिलता है कोई बिस्मिल से मिलता है`
@@ -15204,7 +15202,7 @@ const hindiShayari = [
   {
     id: 2011,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `मिसाल-ए-गंज-ए-क़ारूँ अहल-ए-हाजत से नहीं छुपता
 जो होता है सख़ी ख़ुद ढूँड कर साइल से मिलता है`
@@ -15220,7 +15218,7 @@ const hindiShayari = [
   {
     id: 2013,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `ग़ज़ब है 'दाग़' के दिल से तुम्हारा दिल नहीं मिलता
 तुम्हारा चाँद सा चेहरा मह-ए-कामिल से मिलता है`
@@ -15260,7 +15258,7 @@ const hindiShayari = [
   {
     id: 2018,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `दोस्ती में तिरी दर-पर्दा हमारे दुश्मन
 इस क़दर अपने पराए हैं कि जी जानता है`
@@ -15325,7 +15323,7 @@ const hindiShayari = [
   {
     id: 2026,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `हर इक से कहते हैं क्या 'दाग़' बेवफ़ा निकला
 ये पूछे उन से कोई वो ग़ुलाम किस का था`
@@ -15373,7 +15371,7 @@ const hindiShayari = [
   {
     id: 2032,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `तड़प फिर ऐ दिल-ए-नादाँ कि ग़ैर कहते हैं
 अख़ीर कुछ न बनी सब्र इख़्तियार किया`
@@ -15389,7 +15387,7 @@ const hindiShayari = [
   {
     id: 2034,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `बनेगा मेहर-ए-क़यामत भी एक ख़ाल-ए-सियाह
 जो चेहरा 'दाग़'-ए-सियह-रू ने आश्कार किया`
@@ -15429,7 +15427,7 @@ const hindiShayari = [
   {
     id: 2039,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `ज़ीस्त से तंग हो ऐ 'दाग़' तो जीते क्यूँ हो
 जान प्यारी भी नहीं जान से जाते भी नहीं`
@@ -15461,7 +15459,7 @@ const hindiShayari = [
   {
     id: 2043,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `काबा ओ दैर में या चश्म-ओ-दिल-ए-आशिक़ में
 इन्हीं दो-चार घरों में है ठिकाना तेरा`
@@ -15477,7 +15475,7 @@ const hindiShayari = [
   {
     id: 2045,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `'दाग़' को यूँ वो मिटाते हैं ये फ़रमाते हैं
 तू बदल डाल हुआ नाम पुराना तेरा`
@@ -15509,7 +15507,7 @@ const hindiShayari = [
   {
     id: 2049,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `है मजमा-ए-अग़्यार कि हंगामा-ए-महशर
 क्या सैर मिरे दीदा-ए-तर देख रहे हैं`
@@ -15525,7 +15523,7 @@ const hindiShayari = [
   {
     id: 2051,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `मैं 'दाग़' हूँ मरता हूँ इधर देखिए मुझ को
 मुँह फेर के ये आप किधर देख रहे हैं`
@@ -15557,7 +15555,7 @@ const hindiShayari = [
   {
     id: 2055,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `दे ख़ुदा और जगह सीना ओ पहलू के सिवा
 कि बुरे वक़्त में हो जाए ठिकाना दिल का`
@@ -15573,7 +15571,7 @@ const hindiShayari = [
   {
     id: 2057,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `बा'द मुद्दत के ये ऐ 'दाग़' समझ में आया
 वही दाना है कहा जिस ने न माना दिल का`
@@ -15589,7 +15587,7 @@ const hindiShayari = [
   {
     id: 2059,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `कहीं है ईद की शादी कहीं मातम है मक़्तल में
 कोई क़ातिल से मिलता है कोई बिस्मिल से मिलता है`
@@ -15605,7 +15603,7 @@ const hindiShayari = [
   {
     id: 2061,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `मिसाल-ए-गंज-ए-क़ारूँ अहल-ए-हाजत से नहीं छुपता
 जो होता है सख़ी ख़ुद ढूँड कर साइल से मिलता है`
@@ -15621,7 +15619,7 @@ const hindiShayari = [
   {
     id: 2063,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `ग़ज़ब है 'दाग़' के दिल से तुम्हारा दिल नहीं मिलता
 तुम्हारा चाँद सा चेहरा मह-ए-कामिल से मिलता है`
@@ -15661,7 +15659,7 @@ const hindiShayari = [
   {
     id: 2068,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `दोस्ती में तिरी दर-पर्दा हमारे दुश्मन
 इस क़दर अपने पराए हैं कि जी जानता है`
@@ -15726,7 +15724,7 @@ const hindiShayari = [
   {
     id: 2076,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `हर इक से कहते हैं क्या 'दाग़' बेवफ़ा निकला
 ये पूछे उन से कोई वो ग़ुलाम किस का था`
@@ -15774,7 +15772,7 @@ const hindiShayari = [
   {
     id: 2082,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `तड़प फिर ऐ दिल-ए-नादाँ कि ग़ैर कहते हैं
 अख़ीर कुछ न बनी सब्र इख़्तियार किया`
@@ -15790,7 +15788,7 @@ const hindiShayari = [
   {
     id: 2084,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `बनेगा मेहर-ए-क़यामत भी एक ख़ाल-ए-सियाह
 जो चेहरा 'दाग़'-ए-सियह-रू ने आश्कार किया`
@@ -15830,7 +15828,7 @@ const hindiShayari = [
   {
     id: 2089,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `ज़ीस्त से तंग हो ऐ 'दाग़' तो जीते क्यूँ हो
 जान प्यारी भी नहीं जान से जाते भी नहीं`
@@ -15862,7 +15860,7 @@ const hindiShayari = [
   {
     id: 2093,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `काबा ओ दैर में या चश्म-ओ-दिल-ए-आशिक़ में
 इन्हीं दो-चार घरों में है ठिकाना तेरा`
@@ -15878,7 +15876,7 @@ const hindiShayari = [
   {
     id: 2095,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `'दाग़' को यूँ वो मिटाते हैं ये फ़रमाते हैं
 तू बदल डाल हुआ नाम पुराना तेरा`
@@ -15910,7 +15908,7 @@ const hindiShayari = [
   {
     id: 2099,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `है मजमा-ए-अग़्यार कि हंगामा-ए-महशर
 क्या सैर मिरे दीदा-ए-तर देख रहे हैं`
@@ -15926,7 +15924,7 @@ const hindiShayari = [
   {
     id: 2101,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `मैं 'दाग़' हूँ मरता हूँ इधर देखिए मुझ को
 मुँह फेर के ये आप किधर देख रहे हैं`
@@ -15958,7 +15956,7 @@ const hindiShayari = [
   {
     id: 2105,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `दे ख़ुदा और जगह सीना ओ पहलू के सिवा
 कि बुरे वक़्त में हो जाए ठिकाना दिल का`
@@ -15974,7 +15972,7 @@ const hindiShayari = [
   {
     id: 2107,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `बा'द मुद्दत के ये ऐ 'दाग़' समझ में आया
 वही दाना है कहा जिस ने न माना दिल का`
@@ -15990,7 +15988,7 @@ const hindiShayari = [
   {
     id: 2109,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `कहीं है ईद की शादी कहीं मातम है मक़्तल में
 कोई क़ातिल से मिलता है कोई बिस्मिल से मिलता है`
@@ -16006,7 +16004,7 @@ const hindiShayari = [
   {
     id: 2111,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `मिसाल-ए-गंज-ए-क़ारूँ अहल-ए-हाजत से नहीं छुपता
 जो होता है सख़ी ख़ुद ढूँड कर साइल से मिलता है`
@@ -16022,7 +16020,7 @@ const hindiShayari = [
   {
     id: 2113,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `ग़ज़ब है 'दाग़' के दिल से तुम्हारा दिल नहीं मिलता
 तुम्हारा चाँद सा चेहरा मह-ए-कामिल से मिलता है`
@@ -16062,7 +16060,7 @@ const hindiShayari = [
   {
     id: 2118,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'दाग़ देहलवी',
     text: `दोस्ती में तिरी दर-पर्दा हमारे दुश्मन
 इस क़दर अपने पराए हैं कि जी जानता है`
@@ -16868,8 +16866,7 @@ const hindiShayari = [
     author: 'अंजुम रहबर',
     text: `तुम को भुला रही थी कि तुम याद आ गए
 मैं ज़हर खा रही थी कि तुम याद आ गए`
-  }
-,
+  },
   {
     id: 2219,
     language: 'urdu',
@@ -16889,7 +16886,7 @@ const hindiShayari = [
   {
     id: 2221,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `किस लिए जीते हैं हम किस के लिए जीते हैं
 बारहा ऐसे सवालात पे रोना आया`
@@ -16905,7 +16902,7 @@ const hindiShayari = [
   {
     id: 2223,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `मैं ज़िंदगी का साथ निभाता चला गया
 हर फ़िक्र को धुएँ में उड़ाता चला गया`
@@ -16913,7 +16910,7 @@ const hindiShayari = [
   {
     id: 2224,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `बर्बादियों का सोग मनाना फ़ुज़ूल था
 बर्बादियों का जश्न मनाता चला गया`
@@ -16921,7 +16918,7 @@ const hindiShayari = [
   {
     id: 2225,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `जो मिल गया उसी को मुक़द्दर समझ लिया
 जो खो गया मैं उस को भुलाता चला गया`
@@ -16929,7 +16926,7 @@ const hindiShayari = [
   {
     id: 2226,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'साहिर लुधियानवी',
     text: `ग़म और ख़ुशी में फ़र्क़ न महसूस हो जहाँ
 मैं दिल को उस मक़ाम पे लाता चला गया`
@@ -16937,7 +16934,7 @@ const hindiShayari = [
   {
     id: 2227,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ी आज़मी',
     text: `मिले न फूल तो काँटों से दोस्ती कर ली
 इसी तरह से बसर हम ने ज़िंदगी कर ली`
@@ -16945,7 +16942,7 @@ const hindiShayari = [
   {
     id: 2228,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ी आज़मी',
     text: `अब आगे जो भी हो अंजाम देखा जाएगा
 ख़ुदा तलाश लिया और बंदगी कर ली`
@@ -16961,7 +16958,7 @@ const hindiShayari = [
   {
     id: 2230,
     language: 'urdu',
-    category: 'life',
+    category: 'philosophical',
     author: 'कैफ़ी आज़मी',
     text: `वो जिन को प्यार है चाँदी से इश्क़ सोने से
 वही कहेंगे कभी हम ने ख़ुद-कुशी कर ली`
@@ -16997,135 +16994,6 @@ const hindiShayari = [
     author: 'हसरत जयपुरी',
     text: `तू इश्क़ के तूफ़ान को बाँहों में जकड़ ले
 अल्लाह करे ज़ोर-ए-शबाब और ज़ियादा`
-  }
-,
-  {
-    id: 2235,
-    language: 'urdu',
-    category: 'sad',
-    author: '??????????????? ???????????????????????????',
-    text: `????????? ???????????? ?????? ????????? ??????????????? ?????? ???????????? ?????????
-????????? ??????????????? ?????? ?????? ?????? ????????? ?????? ???????????? ?????????`
-  },
-  {
-    id: 2236,
-    language: 'urdu',
-    category: 'sad',
-    author: '??????????????? ???????????????????????????',
-    text: `?????? ?????? ???????????? ?????? ?????? ?????? ????????? ?????? ????????? ?????? ??????
-???????????? ????????? ?????? ?????? ????????? ????????? ?????? ???????????? ?????????`
-  },
-  {
-    id: 2237,
-    language: 'urdu',
-    category: 'life',
-    author: '??????????????? ???????????????????????????',
-    text: `????????? ????????? ???????????? ????????? ?????? ????????? ?????? ????????? ???????????? ?????????
-??????????????? ????????? ?????????????????? ?????? ???????????? ?????????`
-  },
-  {
-    id: 2238,
-    language: 'urdu',
-    category: 'sad',
-    author: '??????????????? ???????????????????????????',
-    text: `????????? ???????????? ?????? ???????????? ?????? ?????? ?????????????????? ??? ???????????????
-?????? ?????? ???????????? ?????? ???????????? ????????? ?????? ???????????? ?????????`
-  },
-  {
-    id: 2239,
-    language: 'urdu',
-    category: 'life',
-    author: '??????????????? ???????????????????????????',
-    text: `????????? ????????????????????? ?????? ????????? ?????????????????? ????????? ?????????
-?????? ?????????????????? ?????? ???????????? ????????? ?????????????????? ????????? ?????????`
-  },
-  {
-    id: 2240,
-    language: 'urdu',
-    category: 'life',
-    author: '??????????????? ???????????????????????????',
-    text: `?????????????????????????????? ?????? ????????? ??????????????? ????????????????????? ??????
-?????????????????????????????? ?????? ???????????? ??????????????? ????????? ?????????`
-  },
-  {
-    id: 2241,
-    language: 'urdu',
-    category: 'life',
-    author: '??????????????? ???????????????????????????',
-    text: `?????? ????????? ????????? ????????? ?????? ???????????????????????? ????????? ????????????
-?????? ?????? ????????? ????????? ?????? ?????? ?????????????????? ????????? ?????????`
-  },
-  {
-    id: 2242,
-    language: 'urdu',
-    category: 'life',
-    author: '??????????????? ???????????????????????????',
-    text: `????????? ?????? ??????????????? ????????? ?????????????????? ??? ??????????????? ?????? ????????????
-????????? ????????? ?????? ?????? ??????????????? ?????? ???????????? ????????? ?????????`
-  },
-  {
-    id: 2243,
-    language: 'urdu',
-    category: 'life',
-    author: '??????????????? ???????????????',
-    text: `???????????? ??? ????????? ?????? ?????????????????? ?????? ?????????????????? ?????? ??????
-????????? ????????? ?????? ????????? ?????? ?????? ????????????????????? ?????? ??????`
-  },
-  {
-    id: 2244,
-    language: 'urdu',
-    category: 'life',
-    author: '??????????????? ???????????????',
-    text: `?????? ????????? ?????? ?????? ?????? ??????????????? ???????????? ???????????????
-??????????????? ???????????? ???????????? ?????? ??????????????? ?????? ??????`
-  },
-  {
-    id: 2245,
-    language: 'urdu',
-    category: 'romantic',
-    author: '??????????????? ???????????????',
-    text: `???????????? ???????????? ?????? ??? ?????? ?????? ?????? ?????? ????????? ????????????
-??????????????? ???????????? ?????? ??? ?????? ?????? ????????? ?????? ?????? ??????`
-  },
-  {
-    id: 2246,
-    language: 'urdu',
-    category: 'life',
-    author: '??????????????? ???????????????',
-    text: `?????? ????????? ?????? ??????????????? ?????? ??????????????? ?????? ??????????????? ???????????? ??????
-????????? ?????????????????? ????????? ?????? ?????? ????????????-???????????? ?????? ??????`
-  },
-  {
-    id: 2247,
-    language: 'urdu',
-    category: 'romantic',
-    author: '???????????? ??????????????????',
-    text: `???????????? ???????????? ??????????????? ?????? ???????????? ?????? ?????????????????????
-??????????????? ???????????? ?????????????????? ?????? ??????????????? ?????? ?????????????????????`
-  },
-  {
-    id: 2248,
-    language: 'urdu',
-    category: 'romantic',
-    author: '???????????? ??????????????????',
-    text: `???????????? ????????? ?????? ???????????? ???????????? ?????????????????? ????????? ??????????????????
-??????????????? ?????? ?????????-???-???????????????-??????????????? ?????? ?????????????????????`
-  },
-  {
-    id: 2249,
-    language: 'urdu',
-    category: 'romantic',
-    author: '???????????? ??????????????????',
-    text: `?????? ????????? ????????? ????????? ?????? ?????? ???????????????????????? ?????? ????????? ??????
-???????????? ?????? ??????????????? ?????? ?????? ?????? ?????? ?????????????????????`
-  },
-  {
-    id: 2250,
-    language: 'urdu',
-    category: 'romantic',
-    author: '???????????? ??????????????????',
-    text: `?????? ??????????????? ?????? ?????????????????? ?????? ?????????????????? ????????? ???????????? ??????
-?????????????????? ????????? ????????????-???-???????????? ?????? ?????????????????????`
   }
 ];
 
@@ -19812,7 +19680,7 @@ function createFilters() {
     
     if (currentMode === 'shayari') {
         const languages = ['सभी', 'हिंदी', 'اردو', 'मराठी'];
-        const categories = ['सभी', 'रोमांटिक', 'दुःख', 'फिलोसफी', 'भक्ति'];
+        const categories = ['सभी', 'रोमांटिक', 'दुःख', 'फिलोसफी'];
         
         languages.forEach(lang => {
             const btn = document.createElement('button');
@@ -19888,7 +19756,19 @@ function filterGhazalByPoet(poet) {
 }
 
 function applyFilters() {
-    filteredShayari = shayariData.filter(item => {
+    filteredShayari = shayariData.filter((item, index) => {
+        // Safety check for undefined items
+        if (!item || typeof item !== 'object') {
+            console.warn(`⚠️ Undefined or invalid item at index ${index}`);
+            return false;
+        }
+        
+        // Safety check for required properties
+        if (!item.language) {
+            console.warn(`⚠️ Missing language property at index ${index}, id:`, item.id);
+            return false;
+        }
+        
         const langMatch = !selectedFilters.language || item.language === selectedFilters.language;
         const catMatch = !selectedFilters.category || item.category === selectedFilters.category;
         return langMatch && catMatch;
